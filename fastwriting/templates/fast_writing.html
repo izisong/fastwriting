@@ -1,0 +1,51 @@
+﻿{% extends "base.html" %}
+
+{% block title %}快速写作{% endblock %}
+
+{% block content %}
+  <!-- <div id="search" class="well">
+      <div id="searchForm">
+          <form accept-charset="utf-8" class="navbar-search pull-left"  width="500px" 
+                onsubmit="return submit_search()">
+                    <input id="search_autocomplete" type="text" placeholder="Text input" autocomplete="off"
+                      title="write your article" name="q"
+                      value="write your article"
+                      onFocus="search_focus_changed(this, true)"
+                      onBlur="search_focus_changed(this, false)"
+                      onkeydown="return search_changed(event, true, './')"
+                      onkeyup="return search_changed(event, false, './')" />
+          </form>
+      </div>searchForm
+  </div> --><!-- search -->
+  <div id="search" >
+      <div id="searchForm">
+          <form accept-charset="utf-8" class="gsc-search-box" 
+                onsubmit="return submit_search()">
+            <table class="gsc-search-box" cellpadding="0" cellspacing="0"><tbody>
+                <tr>
+                  <td class="gsc-input">
+                    <input id="search_autocomplete" class="gsc-input" type="text" size="33" autocomplete="off"
+                      title="write your article" name="q"
+                      value="write your article"
+                      onFocus="search_focus_changed(this, true)"
+                      onBlur="search_focus_changed(this, false)"
+                      onkeydown="return search_changed(event, true, './')"
+                      onkeyup="return search_changed(event, false, './')" />
+                  <div id="search_filtered_div" class="no-display">
+                      <table id="search_filtered" cellspacing=0>
+                      </table>
+                  </div>
+                  </td>
+                  <td class="gsc-search-button">
+                    <input type="submit" value="Search" title="search" id="search-button" class="gsc-search-button" />
+                  </td>
+                  <td class="gsc-clear-button">
+                    <div title="clear results" class="gsc-clear-button">&nbsp;</div>
+                  </td>
+                </tr></tbody>
+              </table>
+          </form>
+      </div><!-- searchForm -->
+  </div><!-- search -->
+  <div><textarea rows="5"></textarea></div>
+{% endblock %}

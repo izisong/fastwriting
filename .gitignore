@@ -1,3 +1,4 @@
+*.txt
 .htaccess
 css.php
 rpc/

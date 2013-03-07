@@ -1,0 +1,21 @@
+﻿{% extends "base.html" %}
+
+{% block title %}首页{% endblock %}
+
+{% block content %}
+
+<div id="blogInput" class="well">
+	<form class="form-search" action="/import-blog" method="get">
+	  <input type="text" class="input-medium search-query" name="blog_site">
+	  <button type="submit" class="btn">导入博客</button>
+	</form>
+</div>
+
+<div id="dealBlog" class="well">
+	<form class="form-search" action="/deal-blog" method="get">
+	  <input type="text" class="input-medium search-query" name="blog_site">
+	  <button type="submit" class="btn">建立风格</button>
+	</form>
+</div>
+
+{% endblock %}

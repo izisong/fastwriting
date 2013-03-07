@@ -1,0 +1,4 @@
+﻿{
+"cutWords" : [{% for word in cut_words %}"{{ word }}",{% endfor %}],
+"matchedSens" : [{% for sen in matched_sentences %}{ id:0, label:"{{ sen }}" },{% endfor %}]
+}

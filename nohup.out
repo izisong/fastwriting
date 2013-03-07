@@ -1,0 +1,2439 @@
+Building Trie...
+loading model from cache
+loading model cost  0.996714830399 seconds.
+Trie has been built succesfully.
+Building Trie...
+loading model from cache
+loading model cost  1.00224208832 seconds.
+Trie has been built succesfully.
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+dumping model to file cache
+loading model cost  2.80261993408 seconds.
+Trie has been built succesfully.
+Building Trie...
+loading model from cache
+loading model cost  0.998636960983 seconds.
+Trie has been built succesfully.
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.998470067978 seconds.
+Trie has been built succesfully.
+Building Trie...
+loading model from cache
+loading model cost  0.99359703064 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 01:38:01] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 01:38:01] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 01:38:01] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 01:38:10] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 01:38:11] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 01:38:11] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 01:38:11] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 01:38:11] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 01:38:11] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 01:38:11] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 01:38:11] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 01:42:21] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 01:42:21] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 01:42:21] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 01:42:21] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 01:42:21] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 01:42:21] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 01:42:21] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 01:42:21] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 01:42:27] "GET /divide/%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA/ HTTP/1.1" 200 374
+[22/Jan/2013 01:46:52] "GET /divide/%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 24145
+[22/Jan/2013 01:48:33] "GET /divide/%E6%88%91%E4%B8%AD%E5%9B%BD HTTP/1.1" 301 0
+[22/Jan/2013 01:48:33] "GET /divide/%E6%88%91%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 24145
+[22/Jan/2013 01:48:33] "GET /divide/%E4%B8%AD%E5%9B%BD HTTP/1.1" 301 0
+[22/Jan/2013 01:48:34] "GET /divide/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 24145
+[22/Jan/2013 01:48:39] "GET /divide/%E4%B8%AD%E5%9B%BD%EF%BC%8C%E5%88%86 HTTP/1.1" 404 2585
+[22/Jan/2013 01:48:42] "GET /divide/%E4%B8%AD%E5%9B%BD%EF%BC%8C HTTP/1.1" 404 2570
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  1.00260806084 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 01:50:39] "GET /divide/%E4%B8%AD%E5%9B%BD%EF%BC%8C%E5%88%86 HTTP/1.1" 404 2595
+[22/Jan/2013 01:50:42] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 01:50:42] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 01:50:42] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 01:50:42] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 01:50:42] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 01:50:42] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 01:50:42] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 01:50:42] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 01:50:46] "GET /divide/%E6%88%91 HTTP/1.1" 404 2550
+[22/Jan/2013 01:50:50] "GET /divide/%E6%88%91%EF%BC%8C%E5%8F%91%E7%9A%84 HTTP/1.1" 404 2595
+[22/Jan/2013 01:52:03] "GET /divide/%E6%88%91%EF%BC%8C%E5%8F%91 HTTP/1.1" 404 2580
+[22/Jan/2013 01:52:03] "GET /divide/%E6%88%91%EF%BC%8C HTTP/1.1" 404 2565
+[22/Jan/2013 01:52:03] "GET /divide/%E6%88%91 HTTP/1.1" 404 2550
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  1.00012993813 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 01:53:37] "GET /divide/%E6%88%91%E5%88%86 HTTP/1.1" 500 75830
+[22/Jan/2013 01:53:42] "GET /divide/%E6%88%91%E5%88%86%EF%BC%8C%E5%88%86 HTTP/1.1" 500 76050
+[22/Jan/2013 01:53:44] "GET /divide/%E6%88%91%E5%88%86%EF%BC%8C HTTP/1.1" 500 75940
+[22/Jan/2013 01:53:44] "GET /divide/%E6%88%91%E5%88%86 HTTP/1.1" 500 75830
+[22/Jan/2013 01:53:45] "GET /divide/%E6%88%91 HTTP/1.1" 500 75720
+[22/Jan/2013 01:53:45] "GET /divide/ HTTP/1.1" 500 61296
+[22/Jan/2013 01:53:47] "GET /divide/ HTTP/1.1" 500 61296
+[22/Jan/2013 01:53:47] "GET /divide/ HTTP/1.1" 500 61296
+[22/Jan/2013 01:53:53] "GET / HTTP/1.1" 500 61317
+[22/Jan/2013 01:54:45] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 01:54:45] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 01:54:45] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 01:54:45] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 01:54:45] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 01:54:45] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 01:54:45] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 01:54:45] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 146, in get_response
+    response = debug.technical_404_response(request, e)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/debug.py", line 443, in technical_404_response
+    'reason': smart_str(exception, errors='replace'),
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/encoding.py", line 116, in smart_str
+    return str(s)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/urlresolvers.py", line 185, in __repr__
+    return smart_str(u'<%s %s %s>' % (self.__class__.__name__, self.name, self.regex.pattern))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xef in position 24: ordinal not in range(128)
+[22/Jan/2013 01:54:48] "GET /divide/%E6%88%91 HTTP/1.1" 301 0
+[22/Jan/2013 01:54:48] "GET /divide/%E6%88%91/ HTTP/1.1" 500 71778
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 146, in get_response
+    response = debug.technical_404_response(request, e)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/debug.py", line 443, in technical_404_response
+    'reason': smart_str(exception, errors='replace'),
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/encoding.py", line 116, in smart_str
+    return str(s)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/urlresolvers.py", line 185, in __repr__
+    return smart_str(u'<%s %s %s>' % (self.__class__.__name__, self.name, self.regex.pattern))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xef in position 24: ordinal not in range(128)
+[22/Jan/2013 01:54:53] "GET /divide/%E6%88%91%EF%BC%8C%E6%98%AF HTTP/1.1" 500 59
+[22/Jan/2013 01:54:57] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 01:54:57] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 01:54:57] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 01:54:57] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 01:54:57] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 01:54:57] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 01:54:57] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 01:54:57] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 146, in get_response
+    response = debug.technical_404_response(request, e)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/debug.py", line 443, in technical_404_response
+    'reason': smart_str(exception, errors='replace'),
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/encoding.py", line 116, in smart_str
+    return str(s)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/urlresolvers.py", line 185, in __repr__
+    return smart_str(u'<%s %s %s>' % (self.__class__.__name__, self.name, self.regex.pattern))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xef in position 24: ordinal not in range(128)
+[22/Jan/2013 01:55:00] "GET /divide/%E6%88%91%E6%98%AF HTTP/1.1" 301 0
+[22/Jan/2013 01:55:00] "GET /divide/%E6%88%91%E6%98%AF/ HTTP/1.1" 500 71864
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py", line 67, in __call__
+    return self.application(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/wsgi.py", line 241, in __call__
+    response = self.get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 146, in get_response
+    response = debug.technical_404_response(request, e)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/debug.py", line 443, in technical_404_response
+    'reason': smart_str(exception, errors='replace'),
+  File "/usr/local/lib/python2.7/dist-packages/django/utils/encoding.py", line 116, in smart_str
+    return str(s)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/urlresolvers.py", line 185, in __repr__
+    return smart_str(u'<%s %s %s>' % (self.__class__.__name__, self.name, self.regex.pattern))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xef in position 24: ordinal not in range(128)
+[22/Jan/2013 01:55:11] "GET /divide/%E6%88%91%E6%98%AF%EF%BC%8C%E5%8F%91%E5%8A%A8%E6%9C%BA HTTP/1.1" 500 59
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.993863105774 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 01:55:23] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 01:55:24] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 01:55:24] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 01:55:24] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 01:55:24] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 01:55:24] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 01:55:24] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 01:55:24] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 01:55:27] "GET /divide/%E8%BF%99%E4%B8%AA HTTP/1.1" 301 0
+[22/Jan/2013 01:55:28] "GET /divide/%E8%BF%99%E4%B8%AA/ HTTP/1.1" 200 241610
+[22/Jan/2013 01:55:29] "GET /divide/%E8%BF%99 HTTP/1.1" 301 0
+[22/Jan/2013 01:55:29] "GET /divide/%E8%BF%99/ HTTP/1.1" 500 71778
+[22/Jan/2013 01:55:29] "GET /divide/ HTTP/1.1" 404 2525
+[22/Jan/2013 01:55:31] "GET /divide/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 24145
+[22/Jan/2013 01:55:34] "GET /divide/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%9A HTTP/1.1" 301 0
+[22/Jan/2013 01:55:34] "GET /divide/%E4%B8%AD%E5%9B%BD%E8%A1%8C%E4%B8%9A/ HTTP/1.1" 200 259
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  1.00073289871 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 02:00:39] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 02:00:39] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 02:00:40] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 02:00:40] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 02:00:40] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 02:00:40] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 02:00:40] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 02:00:40] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 02:00:44] "GET /divide/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 404 2564
+[22/Jan/2013 02:00:53] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 02:00:53] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 02:00:53] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 02:00:53] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 02:00:54] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 02:00:54] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 02:00:54] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 02:00:54] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.998656988144 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 02:01:23] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 02:01:23] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 02:01:23] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 02:01:23] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 02:01:23] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 02:01:23] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 02:01:23] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 02:01:23] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 02:01:26] "GET /divide/%E8%BF%99%E4%B8%AA/ HTTP/1.1" 404 2568
+[22/Jan/2013 02:01:31] "GET /divide/%E8%BF%99%E4%B8%AA%E4%B8%AD%E5%9B%BD HTTP/1.1" 404 2595
+[22/Jan/2013 02:02:01] "GET /divide/%E8%BF%99%E4%B8%AD%E5%9B%BD HTTP/1.1" 404 2580
+[22/Jan/2013 02:02:01] "GET /divide/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 404 2568
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.996243953705 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 02:11:10] "GET /divide/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 404 2568
+[22/Jan/2013 02:11:13] "GET /divide/%E4%B8%AD%E5%9B%BD%E8%BF%99%E4%B8%AA HTTP/1.1" 404 2595
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.996112108231 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 02:11:59] "GET / HTTP/1.1" 200 2284
+[22/Jan/2013 02:12:00] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 02:12:00] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 02:12:00] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 02:12:00] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 02:12:00] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 02:12:00] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 02:12:00] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 02:12:02] "GET /divide/%E8%BF%99%E4%B8%AA/ HTTP/1.1" 200 241610
+[22/Jan/2013 02:12:14] "GET /divide/%E8%BF%99%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%98%AF HTTP/1.1" 301 0
+[22/Jan/2013 02:12:14] "GET /divide/%E8%BF%99%E4%B8%AA%E4%B8%AD%E5%9B%BD%E6%98%AF/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:16] "GET /divide/%E8%BF%99%E4%B8%AA%E4%B8%AD%E5%9B%BD HTTP/1.1" 301 0
+[22/Jan/2013 02:12:16] "GET /divide/%E8%BF%99%E4%B8%AA%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 1183
+[22/Jan/2013 02:12:17] "GET /divide/%E8%BF%99%E4%B8%AA%E4%B8%AD HTTP/1.1" 301 0
+[22/Jan/2013 02:12:17] "GET /divide/%E8%BF%99/ HTTP/1.1" 500 71778
+[22/Jan/2013 02:12:18] "GET /divide/ HTTP/1.1" 404 2525
+[22/Jan/2013 02:12:18] "GET /divide/%E8%BF%99%E4%B8%AA%E4%B8%AD/ HTTP/1.1" 200 241610
+[22/Jan/2013 02:12:18] "GET /divide/%E8%BF%99%E4%B8%AA/ HTTP/1.1" 200 241610
+[22/Jan/2013 02:12:18] "GET /divide/ HTTP/1.1" 404 2525
+[22/Jan/2013 02:12:19] "GET /divide/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 24145
+[22/Jan/2013 02:12:22] "GET /divide/%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%A4%A7 HTTP/1.1" 301 0
+[22/Jan/2013 02:12:22] "GET /divide/%E4%B8%AD%E5%9B%BD%E5%BE%88%E5%A4%A7/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:22] "GET /divide/%E4%B8%AD%E5%9B%BD%E5%BE%88 HTTP/1.1" 301 0
+[22/Jan/2013 02:12:23] "GET /divide/%E4%B8%AD%E5%9B%BD%E5%BE%88/ HTTP/1.1" 200 24145
+[22/Jan/2013 02:12:23] "GET /divide/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 24145
+[22/Jan/2013 02:12:27] "GET /divide/%E4%B8%AD%E5%9B%BD%E5%8F%98%E5%BE%97 HTTP/1.1" 301 0
+[22/Jan/2013 02:12:27] "GET /divide/%E4%B8%AD%E5%9B%BD%E5%8F%98%E5%BE%97/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:30] "GET /divide/%E4%B8%AD%E5%9B%BD%E5%8F%98 HTTP/1.1" 301 0
+[22/Jan/2013 02:12:30] "GET /divide/%E4%B8%AD%E5%9B%BD%E5%8F%98/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:30] "GET /divide/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 24145
+[22/Jan/2013 02:12:32] "GET /divide/%E4%B8%AD HTTP/1.1" 301 0
+[22/Jan/2013 02:12:32] "GET /divide/%E4%B8%AD/ HTTP/1.1" 500 71778
+[22/Jan/2013 02:12:32] "GET /divide/ HTTP/1.1" 404 2525
+[22/Jan/2013 02:12:34] "GET /divide/%E5%88%9B%E6%96%B0/ HTTP/1.1" 200 35738
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuchangx HTTP/1.1" 301 0
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuchangx/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuchang HTTP/1.1" 301 0
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuchang/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuchan HTTP/1.1" 301 0
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuchan/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yucha HTTP/1.1" 301 0
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yucha/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuch HTTP/1.1" 301 0
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuch/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuc HTTP/1.1" 301 0
+[22/Jan/2013 02:12:37] "GET /divide/%E5%88%9B%E6%96%B0yuc/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:38] "GET /divide/%E5%88%9B%E6%96%B0yu HTTP/1.1" 301 0
+[22/Jan/2013 02:12:38] "GET /divide/%E5%88%9B%E6%96%B0yu/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:39] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8E HTTP/1.1" 301 0
+[22/Jan/2013 02:12:39] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8E/ HTTP/1.1" 200 35738
+[22/Jan/2013 02:12:42] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Ecaox HTTP/1.1" 301 0
+[22/Jan/2013 02:12:42] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Ecaox/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:42] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Ecao HTTP/1.1" 301 0
+[22/Jan/2013 02:12:42] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Ecao/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:44] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Ecaox/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:45] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Ecao/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:46] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Eca HTTP/1.1" 301 0
+[22/Jan/2013 02:12:46] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Eca/ HTTP/1.1" 200 1
+[22/Jan/2013 02:12:46] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Ec HTTP/1.1" 301 0
+[22/Jan/2013 02:12:46] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8Ec/ HTTP/1.1" 200 35738
+[22/Jan/2013 02:12:48] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8E%E6%8A%84%E8%A2%AD HTTP/1.1" 301 0
+[22/Jan/2013 02:12:48] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8E%E6%8A%84%E8%A2%AD/ HTTP/1.1" 200 3109
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  1.00156116486 seconds.
+Trie has been built succesfully.
+Error: No module named writing
+Building Trie...
+loading model from cache
+loading model cost  0.994113922119 seconds.
+Trie has been built succesfully.
+Error: No module named writing
+Building Trie...
+dumping model to file cache
+loading model cost  2.81402921677 seconds.
+Trie has been built succesfully.
+Building Trie...
+loading model from cache
+loading model cost  1.00397205353 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 19:21:08] "GET / HTTP/1.1" 200 2671
+[22/Jan/2013 19:21:08] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 19:21:08] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 19:23:30] "GET / HTTP/1.1" 200 2463
+[22/Jan/2013 19:23:30] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 19:23:30] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 19:23:30] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 19:23:30] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 19:23:30] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 19:23:30] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 19:23:30] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 19:24:47] "GET / HTTP/1.1" 200 2475
+[22/Jan/2013 19:24:48] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8327
+[22/Jan/2013 19:24:48] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 19:24:48] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 19:24:48] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 19:24:48] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 19:24:48] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 19:24:48] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <bound method Command.inner_run of <django.contrib.staticfiles.management.commands.runserver.Command object at 0xf7edf4c>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 111, in inner_run
+    Building Trie...
+loading model from cache
+loading model cost  0.996564149857 seconds.
+Trie has been built succesfully.
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  1.01743102074 seconds.
+Trie has been built succesfully.
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.995999097824 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 20:25:17] "GET /divide/%E4%B8%AD/ HTTP/1.1" 500 69372
+[22/Jan/2013 20:25:18] "GET /divide/ HTTP/1.1" 404 2413
+[22/Jan/2013 20:25:20] "GET /divide/%E5%88%9B%E6%96%B0/ HTTP/1.1" 500 69451
+[22/Jan/2013 20:25:33] "GET /divide/%E5%88%9B%E6%96%B0%E4%B8%8E/ HTTP/1.1" 500 69530
+[22/Jan/2013 20:26:33] "GET / HTTP/1.1" 500 69122
+[22/Jan/2013 20:26:57] "GET / HTTP/1.1" 200 2475
+[22/Jan/2013 20:26:57] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[22/Jan/2013 20:26:57] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8302
+[22/Jan/2013 20:26:57] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[22/Jan/2013 20:26:57] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[22/Jan/2013 20:26:57] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[22/Jan/2013 20:26:57] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[22/Jan/2013 20:26:57] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[22/Jan/2013 20:27:03] "GET /divide/z HTTP/1.1" 301 0
+[22/Jan/2013 20:27:03] "GET /divide/z/ HTTP/1.1" 500 57886
+[22/Jan/2013 20:27:03] "GET /divide/ HTTP/1.1" 404 2413
+[22/Jan/2013 20:27:05] "GET /divide/%E5%88%9B%E6%96%B0/ HTTP/1.1" 500 58079
+[22/Jan/2013 20:27:52] "GET /divide/%E5%88%9B HTTP/1.1" 301 0
+[22/Jan/2013 20:27:52] "GET /divide/%E5%88%9B/ HTTP/1.1" 500 57964
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  1.01673817635 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 20:34:00] "GET /import-blog HTTP/1.1" 301 0
+[22/Jan/2013 20:34:01] "GET /import-blog/ HTTP/1.1" 500 57180
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.997215032578 seconds.
+Trie has been built succesfully.
+[22/Jan/2013 20:34:46] "GET /import-blog/ HTTP/1.1" 200 76
+[23/Jan/2013 05:22:12] "GET /import-blog/ HTTP/1.1" 200 76
+[23/Jan/2013 05:24:23] "GET / HTTP/1.1" 200 2498
+[23/Jan/2013 05:24:23] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8302
+[23/Jan/2013 05:24:23] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[23/Jan/2013 05:24:27] "GET /import-blog/? HTTP/1.1" 200 76
+[23/Jan/2013 05:24:51] "GET / HTTP/1.1" 200 2497
+[23/Jan/2013 05:24:51] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[23/Jan/2013 05:24:51] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[23/Jan/2013 05:24:51] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[23/Jan/2013 05:24:51] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[23/Jan/2013 05:24:51] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8302
+[23/Jan/2013 05:24:51] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[23/Jan/2013 05:24:51] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[23/Jan/2013 05:24:54] "GET /import-blog? HTTP/1.1" 301 0
+[23/Jan/2013 05:24:54] "GET /import-blog/ HTTP/1.1" 200 76
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.998142004013 seconds.
+Trie has been built succesfully.
+[23/Jan/2013 05:29:46] "GET /import-blog/ HTTP/1.1" 200 28
+[23/Jan/2013 05:30:41] "GET / HTTP/1.1" 200 2528
+[23/Jan/2013 05:30:41] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[23/Jan/2013 05:30:41] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[23/Jan/2013 05:30:41] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[23/Jan/2013 05:30:41] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[23/Jan/2013 05:30:41] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8302
+[23/Jan/2013 05:30:41] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[23/Jan/2013 05:30:41] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[23/Jan/2013 05:30:44] "GET /import-blog/?blog_site=12324 HTTP/1.1" 200 26
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.996473073959 seconds.
+Trie has been built succesfully.
+[23/Jan/2013 05:35:22] "GET / HTTP/1.1" 500 69197
+[23/Jan/2013 05:36:06] "GET / HTTP/1.1" 200 2528
+[23/Jan/2013 05:36:06] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[23/Jan/2013 05:36:06] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[23/Jan/2013 05:36:06] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[23/Jan/2013 05:36:06] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[23/Jan/2013 05:36:06] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[23/Jan/2013 05:36:06] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[23/Jan/2013 05:36:06] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8302
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 05:36:23] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 51
+[23/Jan/2013 05:43:23] "GET / HTTP/1.1" 200 2528
+[23/Jan/2013 05:43:23] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[23/Jan/2013 05:43:23] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[23/Jan/2013 05:43:23] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[23/Jan/2013 05:43:23] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[23/Jan/2013 05:43:23] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[23/Jan/2013 05:43:23] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8302
+[23/Jan/2013 05:43:23] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 05:43:33] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 51
+[23/Jan/2013 05:49:09] "GET / HTTP/1.1" 200 2528
+[23/Jan/2013 05:49:09] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[23/Jan/2013 05:49:09] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[23/Jan/2013 05:49:09] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[23/Jan/2013 05:49:09] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8302
+[23/Jan/2013 05:49:09] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[23/Jan/2013 05:49:09] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[23/Jan/2013 05:49:09] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 05:49:14] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 51
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 06:10:19] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 51
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.999913930893 seconds.
+Trie has been built succesfully.
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 06:11:01] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 30
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 06:11:14] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 30
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <bound method Command.inner_run of <django.contrib.staticfiles.management.commands.runserver.Command object at 0xf05cf6c>>
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/commands/runserver.py", line 111, in inner_run
+    ipv6=self.use_ipv6, threading=threading)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/servers/basehttp.py", line 253, in run
+    httpd.serve_forever()
+  File "/usr/lib/python2.7/SocketServer.py", line 235, in serve_forever
+    r, w, e = _eintr_retry(select.select, [self], [], [],
+AttributeError: 'NoneType' object has no attribute 'select'Building Trie...
+loading model from cache
+loading model cost  0.997992992401 seconds.
+Trie has been built succesfully.
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 06:13:09] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 84
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  1.00183200836 seconds.
+Trie has been built succesfully.
+[23/Jan/2013 06:21:53] "GET / HTTP/1.1" 200 2528
+[23/Jan/2013 06:21:53] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[23/Jan/2013 06:21:53] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[23/Jan/2013 06:21:53] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 18803
+[23/Jan/2013 06:21:53] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[23/Jan/2013 06:21:53] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[23/Jan/2013 06:21:53] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 8302
+[23/Jan/2013 06:21:53] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 06:21:57] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 500 58277
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.999110937119 seconds.
+Trie has been built succesfully.
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 06:22:53] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 84
+sh: 1: ../shell/SinaBlogCrawler.sh: not found
+[23/Jan/2013 06:22:57] "GET /import-blog/?blog_site=http%3A%2F%2Fblog.sina.com.cn%2F991ztt HTTP/1.1" 200 84
+[23/Jan/2013 07:16:07] "GET / HTTP/1.1" 200 2528
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.999295949936 seconds.
+Trie has been built succesfully.
+http://blog.sina.com.cn/991ztt
+/home/liyasong/website/fastwriting/fastwriting/media/
+crawler start!
+crawl the article:爱情的境界
+crawl the article:转：过来人谈TEM8考试流程
+crawl the article:[转载]@六个月的坚持，近视【800降到500度】！值了！
+crawl the article:锦衣夜行之2012
+crawl the article:考研英语阅读（二）——黄皮书的使用
+crawl the article:考研英语阅读解题方法（一）
+crawl the article:[转载]卢安克的歌
+crawl the article:[转载]补偿
+crawl the article:保研
+crawl the article:[转载]陈虻不死
+crawl the article:倒叙的时光
+crawl the article:【转】女孩该看的经典电影
+crawl the article:安卓
+crawl the article:爱你就像爱生命（王小波）
+crawl the article:《鬼子来了》
+crawl the article:Dense&nbsp;Love
+crawl the article:“不平静，就不会幸福。”
+crawl the article:小情趣
+crawl the article:2011.3.17
+crawl the article:分时段煽情
+crawl the article:2011.3.10考研日记
+crawl the article:晚熟的女人害自己一辈子，晚熟的男人害全家一辈子【转自人人网】
+crawl the article:老庄の爱情观
+crawl the article:认识的人&nbsp;了解的事
+crawl the article:每一个画面都有你
+crawl the article:悲剧不是在你有没有好选择，而是你不肯为自己的未来做一个选择。
+crawl the article:【转】10道题算出你爱人的名字
+crawl the article:未曾绽放就要枯萎吗&nbsp;&nbsp;我有过梦想
+crawl the article:360会给TX啥么台阶下呢
+crawl the article:P.S.,I&nbsp;love&nbsp;you&nbsp;(《附注我爱你》)
+crawl the article:各种相关
+crawl the article:the&nbsp;boundry&nbsp;of&nbsp;dream
+crawl the article:三个A-Cup的女人【书摘】
+crawl the article:【转】中国事实上的哲学第一泰斗邓晓芒出走华科始末
+crawl the article:发展轨迹应该是什么样
+crawl the article:我的博客今天1岁89天啦！
+crawl the article:孤独的人爱操自尊心
+crawl the article:与摩羯突如其来又注定坚实的友情
+crawl the article:你有没有害怕她会离开你，就像你小时候害怕自己会死？
+crawl the article:好女孩一定要知道的情场规则（部分偏激，值得一看）
+crawl the article:赶的不是潮流，是犀利
+crawl the article:把一天的情怀过成一辈子
+crawl the article:最具有吸引力的五种极品女人
+crawl the article:把一切归于精神文明
+crawl the article:其实任何感情，都不止是顺其自然的事。
+crawl the article:你说，来，抱抱。于是我把自己裹在被窝里，闭上眼，恩
+crawl the article:这世界有太多值得珍视的东西，and&nbsp;you&nbsp;are。
+crawl the article:我认识了一个新男孩
+crawl the article:我听千嬅歌
+crawl the article:打消了谈恋爱的想法
+crawl the article:女人该读什么书
+crawl the article:有一些话
+crawl the article:速溶咖啡从哪儿冶炼从容风味
+crawl the article:迈向虎年
+crawl the article:新年伊始
+crawl stop!
+articles num: 55
+begin to write:爱情的境界
+begin to write:转：过来人谈TEM8考试流程
+begin to write:[转载]@六个月的坚持，近视【800降到500度】！值了！
+begin to write:锦衣夜行之2012
+begin to write:考研英语阅读（二）——黄皮书的使用
+begin to write:考研英语阅读解题方法（一）
+begin to write:[转载]卢安克的歌
+begin to write:[转载]补偿
+begin to write:保研
+begin to write:[转载]陈虻不死
+begin to write:倒叙的时光
+begin to write:【转】女孩该看的经典电影
+begin to write:安卓
+begin to write:爱你就像爱生命（王小波）
+begin to write:《鬼子来了》
+begin to write:Dense Love
+begin to write:“不平静，就不会幸福。”
+begin to write:小情趣
+begin to write:2011.3.17
+begin to write:分时段煽情
+begin to write:2011.3.10考研日记
+begin to write:晚熟的女人害自己一辈子，晚熟的男人害全家一辈子【转自人人网】
+begin to write:老庄の爱情观
+begin to write:认识的人 了解的事
+begin to write:每一个画面都有你
+begin to write:悲剧不是在你有没有好选择，而是你不肯为自己的未来做一个选择。
+begin to write:【转】10道题算出你爱人的名字
+begin to write:未曾绽放就要枯萎吗  我有过梦想
+begin to write:360会给TX啥么台阶下呢
+begin to write:P.S.,I love you (《附注我爱你》)
+begin to write:各种相关
+begin to write:the boundry of dream
+begin to write:三个A-Cup的女人【书摘】
+begin to write:【转】中国事实上的哲学第一泰斗邓晓芒出走华科始末
+begin to write:发展轨迹应该是什么样
+begin to write:我的博客今天1岁89天啦！
+begin to write:孤独的人爱操自尊心
+begin to write:与摩羯突如其来又注定坚实的友情
+begin to write:你有没有害怕她会离开你，就像你小时候害怕自己会死？
+begin to write:好女孩一定要知道的情场规则（部分偏激，值得一看）
+begin to write:赶的不是潮流，是犀利
+begin to write:把一天的情怀过成一辈子
+begin to write:最具有吸引力的五种极品女人
+begin to write:把一切归于精神文明
+begin to write:其实任何感情，都不止是顺其自然的事。
+begin to write:你说，来，抱抱。于是我把自己裹在被窝里，闭上眼，恩
+begin to write:这世界有太多值得珍视的东西，and you are。
+begin to write:我认识了一个新男孩
+begin to write:我听千嬅歌
+begin to write:打消了谈恋爱的想法
+begin to write:女人该读什么书
+begin to write:有一些话
+begin to write:速溶咖啡从哪儿冶炼从容风味
+begin to write:迈向虎年
+begin to write:新年伊始
+the number of blogs:55
+http://blog.sina.com.cn/chjguancha
+/home/liyasong/website/fastwriting/fastwriting/media/
+crawler start!
+crawl the article:节目回应
+crawl the article:人物的质地-----《兰考弃儿》节目总结
+crawl the article:兰考弃儿
+crawl the article:节目预告《兰考弃儿》
+crawl the article:沉默的呼吸
+crawl the article:这个眼神
+crawl the article:节目预告《沉默的呼吸》
+crawl the article:见书如晤
+crawl the article:新书的发布
+crawl the article:如果你愿意谈一谈，我愿意听
+crawl the article:不要因为走得太远&nbsp;忘了我们为什么出发
+crawl the article:新书的交待
+crawl the article:张立宪：致力于让我们的内心不那么贫穷
+crawl the article:亭前垂柳珍重待春风
+crawl the article:如果没有目光的交汇，这世上我们就没有认识的人了
+crawl the article:说明一下
+crawl the article:李安：每个人心中卧虎藏龙
+crawl the article:告别卢安克
+crawl the article:唯有纯真者能相信
+crawl the article:节目预告
+crawl the article:童年的委屈
+crawl the article:节目预告
+crawl the article:采访是一场抵达
+crawl the article:澄清
+crawl the article:李永波采访回应
+crawl the article:专访李永波（视频与文字实录）
+crawl the article:节目预告
+crawl the article:盛妆端热油
+crawl the article:那么一点儿沉醉
+crawl the article:说明一下
+crawl the article:节目预告：专访林书豪《与骄傲为敌》
+crawl the article:“你也许无法赢得一场战斗，但你仍能赢得整个战争”
+crawl the article:专访剑桥大学校长
+crawl the article:只穿短裤的人
+crawl the article:节目预告
+crawl the article:节目预告
+crawl the article:戴安娜：无论你身处何方，向我呼喊
+crawl the article:专访BBC总裁
+crawl the article:Olivia的世界
+crawl the article:贝克汉姆专访视频（英音中字版）
+crawl the article:节目预告
+crawl the article:活着
+crawl the article:天涯若比邻
+crawl the article:巧了
+crawl the article:日暮乡关何处是
+crawl the article:魏德圣：尊重的基础是了解
+crawl the article:野蛮的骄傲
+crawl the article:孔雀跪一地
+crawl the article:为了那一抱
+crawl the article:闭上眼睛等
+crawl the article:“这么大一片天，就下一滴雨，就砸在了她头上”
+crawl the article:火落在脚背上
+crawl the article:回京几件事
+crawl the article:破罐破摔&nbsp;（更新：节目完整视频）
+crawl the article:没有深夜痛哭过的人，不足以谈人生
+crawl the article:等一下
+crawl the article:白家的事（视频）
+crawl the article:节目预告
+crawl the article:赤白干净的骨头
+crawl the article:节目预告
+crawl the article:他们愿望的，是一个更为宽广的世界
+crawl the article:今晚节目预告
+crawl the article:啊，今天礼拜天啊！
+crawl the article:我们经历磨难，是为了更好地安慰他人
+crawl the article:节目预告---《赤子叶德娴》
+crawl the article:有没有一种可能
+crawl the article:《熊之辩》---访问“活熊取胆”事件双方当事人
+crawl the article:熊之辩
+crawl the article:节目预告：杨丽萍
+crawl the article:心软能救世界
+crawl the article:新年痛快
+crawl the article:“混子”公民
+crawl the article:抱歉
+crawl the article:2011年12月23日
+crawl the article:只是生活本身矛盾密布
+crawl the article:节目预告
+crawl the article:能持否？
+crawl the article:一个都不能少
+crawl the article:一个片子是一次呼吸
+crawl the article:论坛地址
+crawl the article:从尘土里来的人
+crawl the article:节目预告---专访黄西
+crawl the article:几乎轻不可闻的叹息
+crawl the article:如果他在沉默中挣扎
+crawl the article:只听到青绿的细流声
+crawl the article:节目预告
+crawl the article:没忍住
+crawl the article:文明，就是停下来想一想自己在做什么
+crawl the article:节目预告
+crawl the article:采访是病友间的相互探问
+crawl the article:节目预告《迷失四姑娘山》
+crawl the article:本期《看见》
+crawl the article:世间有情人
+crawl the article:老兵逝去
+crawl the article:节目预告：《世间有情人》
+crawl the article:自由，就是对何谓正确不那么确定的精神
+crawl the article:卢安克的歌
+crawl the article:节目预告：《沉默在尖叫》
+crawl the article:业务讨论
+crawl the article:老兵归来（节目预告）
+crawl the article:因为如果是我
+crawl the article:节目预告
+crawl the article:鉴宝
+crawl the article:节目预告
+crawl the article:节目预告
+crawl the article:道路不易&nbsp;小步徐行
+crawl the article:过去是未来最好的向导
+crawl the article:只是欢喜随意而至
+crawl the article:人最大的痛苦就是心灵没有归属
+crawl the article:感谢
+crawl the article:岁月让人从批判走向了建设
+crawl the article:这世界其实挺美好的,能让我心碎
+crawl the article:节目预告
+crawl the article:只要你有笔
+crawl the article:一百年前的领导干部
+crawl the article:韩俊：很多地方，政府成了一个卖地的大公司，这是不正常的
+crawl the article:注视
+crawl the article:火炭上的一滴糖
+crawl the article:自由就是脑子里没有障碍
+crawl the article:周望军谈CPI：不能全中国13亿人一个指数
+crawl the article:节目预告
+crawl the article:本年度最给力演讲（附花絮）
+crawl the article:小羊驼的事儿
+crawl the article:谁会被驯养？
+crawl the article:节目预告
+crawl the article:文艺不重要，人生才重要
+crawl the article:李稻葵：房价的快速增长已经到头儿了
+crawl the article:此身&nbsp;此时&nbsp;此地
+crawl the article:此身&nbsp;此时&nbsp;此地
+crawl the article:中国大堵车刚刚开始
+crawl the article:什么叫气质？
+crawl the article:张艺谋：我不是一个思想者
+crawl the article:节目预告
+crawl the article:卫星几件事
+crawl the article:最最遥远的路
+crawl the article:好东西是聪明人下笨功夫做出来的
+crawl the article:托尔斯泰
+crawl the article:医生的故事
+crawl the article:李连杰：壹基金危机
+crawl the article:节目预告
+crawl the article:200米宽的车道
+crawl the article:节目预告
+crawl the article:陈锡文：不能再对不起农民
+crawl the article:方舟子遇袭
+crawl the article:回京几件事
+crawl the article:节目回应
+crawl the article:但愿心安
+crawl the article:给我讲个从前
+crawl the article:徐帆
+crawl the article:后来
+crawl the article:老苏二三事
+crawl the article:补偿
+crawl the article:节目预告修订版
+crawl the article:Because&nbsp;I&nbsp;can
+crawl the article:关于菩萨的几件事
+crawl the article:晚霞
+crawl the article:主动即自由
+crawl the article:不要快，要稳
+crawl the article:节目回应：认识有多深，呈现才有多深
+crawl the article:节目预告
+crawl the article:大龙的信
+crawl the article:真实的人性有无尽的可能
+crawl the article:殷跃平：地质灾害一半以上由人为活动引发
+crawl the article:节目预告
+crawl the article:新旧之间没有怨讼&nbsp;唯有真与伪是大敌
+crawl the article:关于大龙的工作笔记
+crawl the article:说一声
+crawl the article:真相常流失于涕泪交加中
+crawl the article:“我再也不能跪在她的墓前”
+crawl the article:节目预告
+crawl the article:当你在为生存而挣扎的时候，咱们就是平等的
+crawl the article:国家气候中心：今年气象灾害可能重于往年
+crawl the article:卢安克的回复
+crawl the article:节目预告
+crawl the article:崔永元说
+crawl the article:地震的事儿
+crawl the article:节目预告
+crawl the article:娃娃（二）
+crawl the article:跟罗永浩同学的谈话
+crawl the article:过程，过程，还是过程
+crawl the article:不在北京买车的六个理由
+crawl the article:在自由与权威的冲突中寻找协调
+crawl the article:坛子脸上的柔情
+crawl the article:节目预告
+crawl the article:关于叶企孙的几点回应
+crawl the article:节目预告
+crawl the article:而我却今天才知道他的存在
+crawl the article:精确才能祛魅
+crawl the article:忘预告了
+crawl the article:难道就我爸跟别人不一样？
+crawl the article:和陈晓楠同学击下掌
+crawl the article:节目预告
+crawl the article:老毛
+crawl the article:记得
+crawl the article:给老李的信
+crawl the article:她们的一个世纪
+crawl the article:新年凑合
+crawl the article:我很抱歉
+crawl the article:读书笔记
+crawl the article:专访铁道部新闻发言人征集问题
+crawl the article:如果真理不大写呢
+crawl the article:节目预告
+crawl the article:法律的杯子底是什么？
+crawl the article:法律的杯子底是什么？(节目回应）
+crawl the article:王朔说
+crawl the article:白痴
+crawl the article:节目预告
+crawl the article:不可能的改善
+crawl the article:让人感激的狼藉
+crawl the article:我以为我失去了他，但是没有
+crawl the article:当没有节目预告的时候我们看……
+crawl the article:不打道德正确的旗
+crawl the article:回来再说
+crawl the article:众人之事
+crawl the article:节目预告
+crawl the article:You&nbsp;Won&nbsp;It,&nbsp;Now&nbsp;Earn&nbsp;It
+crawl the article:来劲
+crawl the article:非如此不可？非如此不可
+crawl the article:进一寸有一寸的欢喜
+crawl the article:爱因斯坦的小板凳
+crawl the article:shut&nbsp;你的up,come&nbsp;你的on
+crawl the article:节目回应
+crawl the article:座谈会·节目预告
+crawl the article:杰克逊的三个细节
+crawl the article:试遣愚衷
+crawl the article:摄影师是最后一个死去的人
+crawl the article:娃娃
+crawl the article:八分钟，也可以是一场流浪
+crawl the article:老犹栽竹与人看
+crawl the article:能否问得准确是我惟一需要担心的---《南方周末》访问
+crawl the article:两个小故事
+crawl the article:道德的血腥气
+crawl the article:支持人辟谣
+crawl the article:晚清法律之变
+crawl the article:回应
+crawl the article:回应2
+crawl the article:回应1
+crawl the article:如果你是法官
+crawl the article:节目预告
+crawl the article:老唐
+crawl the article:只听到青绿的细流声
+crawl the article:掌声----《网瘾之戒》采访手记
+crawl the article:神圣的宁静
+crawl the article:8月15日节目视频及回应
+crawl the article:Test
+crawl the article:节目预告
+crawl the article:瞬间
+crawl the article:关于节目的回应
+crawl the article:上海倒楼事件&nbsp;&nbsp;新闻调查2009年8月1日播出
+crawl the article:文艺一下
+crawl the article:老陈，稳住，这次我首发
+crawl the article:给我一个宾语
+crawl the article:荔枝的滋味
+crawl the article:老罗
+crawl the article:真实自有万钧之力
+crawl the article:陈虻不死
+crawl the article:土地拍卖悬案——《新闻调查》4月18日播出
+crawl the article:以求是之名——《新闻调查》3月21日播出
+crawl the article:两会不是秀场&nbsp;&nbsp;公民也要履职
+crawl the article:拷问食品安全——《新闻调查》2月28日播出
+crawl the article:征地破局（谢谢胖兔子粥粥的漫画）
+crawl the article:许霆：罪与罚——《新闻调查》9月13日播出
+crawl the article:专访许霆：罪与罚
+crawl the article:奥运瞬间——Lao&nbsp;Fan&nbsp;Returns
+crawl the article:汶川重建之争
+crawl the article:推荐
+crawl the article:杨柳坪七日——《新闻调查》2008年6月7日播出
+crawl the article:重庆公交之痛
+crawl the article:节目预告
+crawl the article:自由是什么？---香港笔记（一）
+crawl the article:飞了
+crawl the article:对历史说真话，才能对现实说真话
+crawl the article:晚清兵器
+crawl the article:晚清报纸
+crawl the article:也写给参加高考的人
+crawl the article:偷拍机
+crawl the article:突然想起
+crawl the article:为什么？
+crawl the article:施晓晖同学有人找
+crawl the article:回应方舟子
+crawl the article:每一项技术的背后都是生命
+crawl the article:伟大的脆弱
+crawl the article:为了不挡住你的视线
+crawl the article:上海·安德鲁·房子
+crawl the article:弦外之音
+crawl the article:节目预告
+crawl the article:仁慈的忽视
+crawl the article:没底的杯子？
+crawl the article:道不同而相与为谋
+crawl the article:没立法不意味着没责任
+crawl the article:是不愿活，还是不敢活？
+crawl the article:表态
+crawl the article:你参与的是一个人的生命
+crawl the article:雨落在每个人头上
+crawl the article:人大回应泰山议案
+crawl the article:我爱生命，但我不愿活
+crawl the article:我和你都深深嵌在这个世界当中
+crawl the article:北京的三月春意盎然
+crawl the article:民主不在马路上
+crawl the article:交代
+crawl the article:时光流逝而我心安
+crawl the article:政治因为传播才成为政治
+crawl the article:一毫米的敬畏
+crawl the article:爱照镜子的猫
+crawl the article:如果你此时仍在网上
+crawl the article:季羡林：谁觉得自己是大师，他就自己承认好了
+crawl the article:no&nbsp;money,no&nbsp;good
+crawl the article:回来了
+crawl the article:远在山西的预告
+crawl the article:一年又一年
+crawl the article:紧急通知
+crawl the article:告别
+crawl the article:诚其意，毋自欺
+crawl the article:季羡林：和谐的前提是真
+crawl the article:重逢
+crawl the article:回应
+crawl the article:晚到的预告
+crawl the article:裤脚
+crawl the article:呀…
+crawl the article:蜗牛的脖子
+crawl the article:在这辞旧迎新之际…
+crawl the article:明天起，面朝食堂，按时吃饭。
+crawl the article:余英时：和谐的前提是承认不同
+crawl the article:珠江医院调查结果
+crawl the article:希特勒：女人的最高目的是母亲
+crawl the article:小猪说话
+crawl the article:１２月１２日　多云　四川遂宁
+crawl the article:邹承鲁先生安息
+crawl the article:代沟
+crawl the article:激情的弊端
+crawl the article:狗事
+crawl the article:让人神魂颠倒的体贴
+crawl the article:谁不说俺家乡…唉
+crawl the article:贼
+crawl the article:旧中国的记者节
+crawl the article:一个医生的耻辱感
+crawl the article:节目又预告啦
+crawl the article:一句话的历史
+crawl the article:答疑
+crawl the article:谢谢大家
+crawl the article:节目预告
+crawl the article:花朵比恐惧更强大
+crawl the article:夜游
+crawl the article:胃的尊严
+crawl the article:…，能用橡皮擦掉么？
+crawl the article:历史，能用橡皮擦掉么？
+crawl the article:你的美丽园
+crawl the article:如果你知道美丽园
+crawl the article:法拉奇死去
+crawl the article:十年一觉地主梦
+crawl the article:让她的孩子在她的身边长大（续三）
+crawl the article:让她的孩子在她身边长大（续二）
+crawl the article:让她的孩子在她的身边长大（续一）
+crawl the article:椅子上的KTV
+crawl the article:话语权的另一半
+crawl the article:你的话
+crawl the article:母与子
+crawl the article:理想中自己的声音
+crawl the article:关于今晚新闻调查的讨论
+crawl the article:当书记遇到80后
+crawl the article:洗钱
+crawl the article:小小的出走
+crawl the article:节目播出预告
+crawl the article:拼命地生活下去,还需要其它的理由么?
+crawl the article:自言自语
+crawl the article:宁浩-----送给我爸的生日礼物
+crawl the article:评论重新开通声明
+crawl the article:评论关闭声明
+crawl the article:新闻是变成的
+crawl the article:不要因为走得太远
+crawl the article:如果你是记者
+crawl the article:开门四件事
+crawl the article:大脑深处的灯火
+crawl the article:只要还能思考
+crawl the article:小小的告别
+crawl the article:举报，以**的名义
+crawl the article:国务院法制办的回应
+crawl the article:性·谎言·录相带
+crawl the article:残酷（录音师版）
+crawl the article:七月下午之流水帐
+crawl the article:这两天听到的语录
+crawl the article:2006年6月25日新闻
+crawl the article:昨天的留言
+crawl the article:残酷？
+crawl the article:边聊边想
+crawl the article:世界杯·语录
+crawl the article:北京的颜色
+crawl the article:父与子
+crawl the article:遗忘的，不只是唐山
+crawl the article:死亡本身并无意义
+crawl the article:没有人会忘记，没有人会被忘记
+crawl the article:论公民之不服从
+crawl the article:仇恨的本质
+crawl the article:什么都有，只缺寻常
+crawl the article:曹雪芹是个好记者
+crawl the article:笔记本谋杀案
+crawl the article:一点声明
+crawl the article:删去的留言
+crawl the article:调查十年
+crawl the article:不值得？
+crawl the article:晚安
+crawl the article:心要滚动一下，才能变成石子
+crawl the article:上二两私生活
+crawl the article:王二的事
+crawl the article:没有神，也就没有兽
+crawl the article:没有神，也就没有兽
+crawl the article:奥美定被禁！
+crawl the article:闯缸鱼
+crawl the article:在通往牛*的道路上一路狂奔？
+crawl the article:灵魂自会寻找方向
+crawl the article:我所不习惯的…上海
+crawl the article:你抗住，我走先
+crawl the article:世界上最安全的地方
+crawl the article:给我签个名吧
+crawl the article:今夜，我嫉妒…
+crawl the article:老袁有话说
+crawl the article:史努比哲学
+crawl the article:高跟鞋上的战争
+crawl the article:直播！直播！
+crawl the article:《山西的过油肉》
+crawl the article:你无法告诉他如何生活
+crawl the article:我的不安
+crawl the article:出差公告&nbsp;呵呵
+crawl the article:孤独是一个人的骨头
+crawl the article:我很庆幸不必面对他的双眼
+crawl the article:我只是讨厌屈服（重发）
+crawl the article:逃？逃到哪里去？
+crawl the article:装满彩票的盒子（二）
+crawl the article:装满彩票的盒子（一）
+crawl the article:写本身就是写的报酬
+crawl the article:仅有灵魂不能飞翔
+crawl the article:我想问的就是他刚才的问题
+crawl the article:我只是讨厌屈服
+crawl the article:抱歉
+crawl the article:无题
+crawl the article:让她的孩子在她身边长大
+crawl the article:在冰天雪地里行走
+crawl the article:妹妹的留言
+crawl the article:在舞台上种下莲花
+crawl the article:庶民的会场
+crawl the article:妇产科医生的时间表
+crawl the article:你是谁心头的宝？
+crawl the article:不要等到孩子长大
+crawl the article:我只听到雨的声音
+crawl the article:我是你的听众
+crawl the article:一年，为什么只有一个三八节呢？(简洁版)
+crawl the article:一年，为什么只有一个三八节呢?
+crawl the article:身为人子
+crawl the article:常青的核桃
+crawl the article:温总理的博客
+crawl the article:现场
+crawl the article:林毅夫的脸
+crawl the article:两会管我的婚姻么？
+crawl the article:办公室里的两会
+crawl the article:“两会”是有体温的
+crawl the article:2006&nbsp;2月27日
+crawl the article:《柴静两会观察》博客开张啦！
+crawl stop!
+articles num: 457
+begin to write:节目回应
+begin to write:人物的质地-----《兰考弃儿》节目总结
+begin to write:兰考弃儿
+begin to write:节目预告《兰考弃儿》
+begin to write:沉默的呼吸
+begin to write:这个眼神
+begin to write:节目预告《沉默的呼吸》
+begin to write:见书如晤
+begin to write:新书的发布
+begin to write:如果你愿意谈一谈，我愿意听
+begin to write:不要因为走得太远 忘了我们为什么出发
+begin to write:新书的交待
+begin to write:张立宪：致力于让我们的内心不那么贫穷
+begin to write:亭前垂柳珍重待春风
+begin to write:如果没有目光的交汇，这世上我们就没有认识的人了
+begin to write:说明一下
+begin to write:李安：每个人心中卧虎藏龙
+begin to write:告别卢安克
+begin to write:唯有纯真者能相信
+begin to write:节目预告
+begin to write:童年的委屈
+begin to write:节目预告
+begin to write:采访是一场抵达
+begin to write:澄清
+begin to write:李永波采访回应
+begin to write:专访李永波（视频与文字实录）
+begin to write:节目预告
+begin to write:盛妆端热油
+begin to write:那么一点儿沉醉
+begin to write:说明一下
+begin to write:节目预告：专访林书豪《与骄傲为敌》
+begin to write:“你也许无法赢得一场战斗，但你仍能赢得整个战争”
+begin to write:专访剑桥大学校长
+begin to write:只穿短裤的人
+begin to write:节目预告
+begin to write:节目预告
+begin to write:戴安娜：无论你身处何方，向我呼喊
+begin to write:专访BBC总裁
+begin to write:Olivia的世界
+begin to write:贝克汉姆专访视频（英音中字版）
+begin to write:节目预告
+begin to write:活着
+begin to write:天涯若比邻
+begin to write:巧了
+begin to write:日暮乡关何处是
+begin to write:魏德圣：尊重的基础是了解
+begin to write:野蛮的骄傲
+begin to write:孔雀跪一地
+begin to write:为了那一抱
+begin to write:闭上眼睛等
+begin to write:“这么大一片天，就下一滴雨，就砸在了她头上”
+begin to write:火落在脚背上
+begin to write:回京几件事
+begin to write:破罐破摔 （更新：节目完整视频）
+begin to write:没有深夜痛哭过的人，不足以谈人生
+begin to write:等一下
+begin to write:白家的事（视频）
+begin to write:节目预告
+begin to write:赤白干净的骨头
+begin to write:节目预告
+begin to write:他们愿望的，是一个更为宽广的世界
+begin to write:今晚节目预告
+begin to write:啊，今天礼拜天啊！
+begin to write:我们经历磨难，是为了更好地安慰他人
+begin to write:节目预告---《赤子叶德娴》
+begin to write:有没有一种可能
+begin to write:《熊之辩》---访问“活熊取胆”事件双方当事人
+begin to write:熊之辩
+begin to write:节目预告：杨丽萍
+begin to write:心软能救世界
+begin to write:新年痛快
+begin to write:“混子”公民
+begin to write:抱歉
+begin to write:2011年12月23日
+begin to write:只是生活本身矛盾密布
+begin to write:节目预告
+begin to write:能持否？
+begin to write:一个都不能少
+begin to write:一个片子是一次呼吸
+begin to write:论坛地址
+begin to write:从尘土里来的人
+begin to write:节目预告---专访黄西
+begin to write:几乎轻不可闻的叹息
+begin to write:如果他在沉默中挣扎
+begin to write:只听到青绿的细流声
+begin to write:节目预告
+begin to write:没忍住
+begin to write:文明，就是停下来想一想自己在做什么
+begin to write:节目预告
+begin to write:采访是病友间的相互探问
+begin to write:节目预告《迷失四姑娘山》
+begin to write:本期《看见》
+begin to write:世间有情人
+begin to write:老兵逝去
+begin to write:节目预告：《世间有情人》
+begin to write:自由，就是对何谓正确不那么确定的精神
+begin to write:卢安克的歌
+begin to write:节目预告：《沉默在尖叫》
+begin to write:业务讨论
+begin to write:老兵归来（节目预告）
+begin to write:因为如果是我
+begin to write:节目预告
+begin to write:鉴宝
+begin to write:节目预告
+begin to write:节目预告
+begin to write:道路不易 小步徐行
+begin to write:过去是未来最好的向导
+begin to write:只是欢喜随意而至
+begin to write:人最大的痛苦就是心灵没有归属
+begin to write:感谢
+begin to write:岁月让人从批判走向了建设
+begin to write:这世界其实挺美好的,能让我心碎
+begin to write:节目预告
+begin to write:只要你有笔
+begin to write:一百年前的领导干部
+begin to write:韩俊：很多地方，政府成了一个卖地的大公司，这是不正常的
+begin to write:注视
+begin to write:火炭上的一滴糖
+begin to write:自由就是脑子里没有障碍
+begin to write:周望军谈CPI：不能全中国13亿人一个指数
+begin to write:节目预告
+begin to write:本年度最给力演讲（附花絮）
+begin to write:小羊驼的事儿
+begin to write:谁会被驯养？
+begin to write:节目预告
+begin to write:文艺不重要，人生才重要
+begin to write:李稻葵：房价的快速增长已经到头儿了
+begin to write:此身 此时 此地
+begin to write:此身 此时 此地
+begin to write:中国大堵车刚刚开始
+begin to write:什么叫气质？
+begin to write:张艺谋：我不是一个思想者
+begin to write:节目预告
+begin to write:卫星几件事
+begin to write:最最遥远的路
+begin to write:好东西是聪明人下笨功夫做出来的
+begin to write:托尔斯泰
+begin to write:医生的故事
+begin to write:李连杰：壹基金危机
+begin to write:节目预告
+begin to write:200米宽的车道
+begin to write:节目预告
+begin to write:陈锡文：不能再对不起农民
+begin to write:方舟子遇袭
+begin to write:回京几件事
+begin to write:节目回应
+begin to write:但愿心安
+begin to write:给我讲个从前
+begin to write:徐帆
+begin to write:后来
+begin to write:老苏二三事
+begin to write:补偿
+begin to write:节目预告修订版
+begin to write:Because I can
+begin to write:关于菩萨的几件事
+begin to write:晚霞
+begin to write:主动即自由
+begin to write:不要快，要稳
+begin to write:节目回应：认识有多深，呈现才有多深
+begin to write:节目预告
+begin to write:大龙的信
+begin to write:真实的人性有无尽的可能
+begin to write:殷跃平：地质灾害一半以上由人为活动引发
+begin to write:节目预告
+begin to write:新旧之间没有怨讼 唯有真与伪是大敌
+begin to write:关于大龙的工作笔记
+begin to write:说一声
+begin to write:真相常流失于涕泪交加中
+begin to write:“我再也不能跪在她的墓前”
+begin to write:节目预告
+begin to write:当你在为生存而挣扎的时候，咱们就是平等的
+begin to write:国家气候中心：今年气象灾害可能重于往年
+begin to write:卢安克的回复
+begin to write:节目预告
+begin to write:崔永元说
+begin to write:地震的事儿
+begin to write:节目预告
+begin to write:娃娃（二）
+begin to write:跟罗永浩同学的谈话
+begin to write:过程，过程，还是过程
+begin to write:不在北京买车的六个理由
+begin to write:在自由与权威的冲突中寻找协调
+begin to write:坛子脸上的柔情
+begin to write:节目预告
+begin to write:关于叶企孙的几点回应
+begin to write:节目预告
+begin to write:而我却今天才知道他的存在
+begin to write:精确才能祛魅
+begin to write:忘预告了
+begin to write:难道就我爸跟别人不一样？
+begin to write:和陈晓楠同学击下掌
+begin to write:节目预告
+begin to write:老毛
+begin to write:记得
+begin to write:给老李的信
+begin to write:她们的一个世纪
+begin to write:新年凑合
+begin to write:我很抱歉
+begin to write:读书笔记
+begin to write:专访铁道部新闻发言人征集问题
+begin to write:如果真理不大写呢
+begin to write:节目预告
+begin to write:法律的杯子底是什么？
+begin to write:法律的杯子底是什么？(节目回应）
+begin to write:王朔说
+begin to write:白痴
+begin to write:节目预告
+begin to write:不可能的改善
+begin to write:让人感激的狼藉
+begin to write:我以为我失去了他，但是没有
+begin to write:当没有节目预告的时候我们看……
+begin to write:不打道德正确的旗
+begin to write:回来再说
+begin to write:众人之事
+begin to write:节目预告
+begin to write:You Won It, Now Earn It
+begin to write:来劲
+begin to write:非如此不可？非如此不可
+begin to write:进一寸有一寸的欢喜
+begin to write:爱因斯坦的小板凳
+begin to write:shut 你的up,come 你的on
+begin to write:节目回应
+begin to write:座谈会·节目预告
+begin to write:杰克逊的三个细节
+begin to write:试遣愚衷
+begin to write:摄影师是最后一个死去的人
+begin to write:娃娃
+begin to write:八分钟，也可以是一场流浪
+begin to write:老犹栽竹与人看
+begin to write:能否问得准确是我惟一需要担心的---《南方周末》访问
+begin to write:两个小故事
+begin to write:道德的血腥气
+begin to write:支持人辟谣
+begin to write:晚清法律之变
+begin to write:回应
+begin to write:回应2
+begin to write:回应1
+begin to write:如果你是法官
+begin to write:节目预告
+begin to write:老唐
+begin to write:只听到青绿的细流声
+begin to write:掌声----《网瘾之戒》采访手记
+begin to write:神圣的宁静
+begin to write:8月15日节目视频及回应
+begin to write:Test
+begin to write:节目预告
+begin to write:瞬间
+begin to write:关于节目的回应
+begin to write:上海倒楼事件  新闻调查2009年8月1日播出
+begin to write:文艺一下
+begin to write:老陈，稳住，这次我首发
+begin to write:给我一个宾语
+begin to write:荔枝的滋味
+begin to write:老罗
+begin to write:真实自有万钧之力
+begin to write:陈虻不死
+begin to write:土地拍卖悬案——《新闻调查》4月18日播出
+begin to write:以求是之名——《新闻调查》3月21日播出
+begin to write:两会不是秀场  公民也要履职
+begin to write:拷问食品安全——《新闻调查》2月28日播出
+begin to write:征地破局（谢谢胖兔子粥粥的漫画）
+begin to write:许霆：罪与罚——《新闻调查》9月13日播出
+begin to write:专访许霆：罪与罚
+begin to write:奥运瞬间——Lao Fan Returns
+begin to write:汶川重建之争
+begin to write:推荐
+begin to write:杨柳坪七日——《新闻调查》2008年6月7日播出
+begin to write:重庆公交之痛
+begin to write:节目预告
+begin to write:自由是什么？---香港笔记（一）
+begin to write:飞了
+begin to write:对历史说真话，才能对现实说真话
+begin to write:晚清兵器
+begin to write:晚清报纸
+begin to write:也写给参加高考的人
+begin to write:偷拍机
+begin to write:突然想起
+begin to write:为什么？
+begin to write:施晓晖同学有人找
+begin to write:回应方舟子
+begin to write:每一项技术的背后都是生命
+begin to write:伟大的脆弱
+begin to write:为了不挡住你的视线
+begin to write:上海·安德鲁·房子
+begin to write:弦外之音
+begin to write:节目预告
+begin to write:仁慈的忽视
+begin to write:没底的杯子？
+begin to write:道不同而相与为谋
+begin to write:没立法不意味着没责任
+begin to write:是不愿活，还是不敢活？
+begin to write:表态
+begin to write:你参与的是一个人的生命
+begin to write:雨落在每个人头上
+begin to write:人大回应泰山议案
+begin to write:我爱生命，但我不愿活
+begin to write:我和你都深深嵌在这个世界当中
+begin to write:北京的三月春意盎然
+begin to write:民主不在马路上
+begin to write:交代
+begin to write:时光流逝而我心安
+begin to write:政治因为传播才成为政治
+begin to write:一毫米的敬畏
+begin to write:爱照镜子的猫
+begin to write:如果你此时仍在网上
+begin to write:季羡林：谁觉得自己是大师，他就自己承认好了
+begin to write:no money,no good
+begin to write:回来了
+begin to write:远在山西的预告
+begin to write:一年又一年
+begin to write:紧急通知
+begin to write:告别
+begin to write:诚其意，毋自欺
+begin to write:季羡林：和谐的前提是真
+begin to write:重逢
+begin to write:回应
+begin to write:晚到的预告
+begin to write:裤脚
+begin to write:呀…
+begin to write:蜗牛的脖子
+begin to write:在这辞旧迎新之际…
+begin to write:明天起，面朝食堂，按时吃饭。
+begin to write:余英时：和谐的前提是承认不同
+begin to write:珠江医院调查结果
+begin to write:希特勒：女人的最高目的是母亲
+begin to write:小猪说话
+begin to write:１２月１２日　多云　四川遂宁
+begin to write:邹承鲁先生安息
+begin to write:代沟
+begin to write:激情的弊端
+begin to write:狗事
+begin to write:让人神魂颠倒的体贴
+begin to write:谁不说俺家乡…唉
+begin to write:贼
+begin to write:旧中国的记者节
+begin to write:一个医生的耻辱感
+begin to write:节目又预告啦
+begin to write:一句话的历史
+begin to write:答疑
+begin to write:谢谢大家
+begin to write:节目预告
+begin to write:花朵比恐惧更强大
+begin to write:夜游
+begin to write:胃的尊严
+begin to write:…，能用橡皮擦掉么？
+begin to write:历史，能用橡皮擦掉么？
+begin to write:你的美丽园
+begin to write:如果你知道美丽园
+begin to write:法拉奇死去
+begin to write:十年一觉地主梦
+begin to write:让她的孩子在她的身边长大（续三）
+begin to write:让她的孩子在她身边长大（续二）
+begin to write:让她的孩子在她的身边长大（续一）
+begin to write:椅子上的KTV
+begin to write:话语权的另一半
+begin to write:你的话
+begin to write:母与子
+begin to write:理想中自己的声音
+begin to write:关于今晚新闻调查的讨论
+begin to write:当书记遇到80后
+begin to write:洗钱
+begin to write:小小的出走
+begin to write:节目播出预告
+begin to write:拼命地生活下去,还需要其它的理由么?
+begin to write:自言自语
+begin to write:宁浩-----送给我爸的生日礼物
+begin to write:评论重新开通声明
+begin to write:评论关闭声明
+begin to write:新闻是变成的
+begin to write:不要因为走得太远
+begin to write:如果你是记者
+begin to write:开门四件事
+begin to write:大脑深处的灯火
+begin to write:只要还能思考
+begin to write:小小的告别
+begin to write:举报，以**的名义
+begin to write:国务院法制办的回应
+begin to write:性·谎言·录相带
+begin to write:残酷（录音师版）
+begin to write:七月下午之流水帐
+begin to write:这两天听到的语录
+begin to write:2006年6月25日新闻
+begin to write:昨天的留言
+begin to write:残酷？
+begin to write:边聊边想
+begin to write:世界杯·语录
+begin to write:北京的颜色
+begin to write:父与子
+begin to write:遗忘的，不只是唐山
+begin to write:死亡本身并无意义
+begin to write:没有人会忘记，没有人会被忘记
+begin to write:论公民之不服从
+begin to write:仇恨的本质
+begin to write:什么都有，只缺寻常
+begin to write:曹雪芹是个好记者
+begin to write:笔记本谋杀案
+begin to write:一点声明
+begin to write:删去的留言
+begin to write:调查十年
+begin to write:不值得？
+begin to write:晚安
+begin to write:心要滚动一下，才能变成石子
+begin to write:上二两私生活
+begin to write:王二的事
+begin to write:没有神，也就没有兽
+begin to write:没有神，也就没有兽
+begin to write:奥美定被禁！
+begin to write:闯缸鱼
+begin to write:在通往牛*的道路上一路狂奔？
+begin to write:灵魂自会寻找方向
+begin to write:我所不习惯的…上海
+begin to write:你抗住，我走先
+begin to write:世界上最安全的地方
+begin to write:给我签个名吧
+begin to write:今夜，我嫉妒…
+begin to write:老袁有话说
+begin to write:史努比哲学
+begin to write:高跟鞋上的战争
+begin to write:直播！直播！
+begin to write:《山西的过油肉》
+begin to write:你无法告诉他如何生活
+begin to write:我的不安
+begin to write:出差公告 呵呵
+begin to write:孤独是一个人的骨头
+begin to write:我很庆幸不必面对他的双眼
+begin to write:我只是讨厌屈服（重发）
+begin to write:逃？逃到哪里去？
+begin to write:装满彩票的盒子（二）
+begin to write:装满彩票的盒子（一）
+begin to write:写本身就是写的报酬
+begin to write:仅有灵魂不能飞翔
+begin to write:我想问的就是他刚才的问题
+begin to write:我只是讨厌屈服
+begin to write:抱歉
+begin to write:无题
+begin to write:让她的孩子在她身边长大
+begin to write:在冰天雪地里行走
+begin to write:妹妹的留言
+begin to write:在舞台上种下莲花
+begin to write:庶民的会场
+begin to write:妇产科医生的时间表
+begin to write:你是谁心头的宝？
+begin to write:不要等到孩子长大
+begin to write:我只听到雨的声音
+begin to write:我是你的听众
+begin to write:一年，为什么只有一个三八节呢？(简洁版)
+begin to write:一年，为什么只有一个三八节呢?
+begin to write:身为人子
+begin to write:常青的核桃
+begin to write:温总理的博客
+begin to write:现场
+begin to write:林毅夫的脸
+begin to write:两会管我的婚姻么？
+begin to write:办公室里的两会
+begin to write:“两会”是有体温的
+begin to write:2006 2月27日
+begin to write:《柴静两会观察》博客开张啦！
+the number of blogs:457
+http://blog.sina.com.cn/twocold
+/home/liyasong/website/fastwriting/fastwriting/media/
+crawler start!
+crawl the article:要客访泰记
+crawl the article:让大家扫兴了
+crawl the article:东望洋
+crawl the article:《春萍，我做到了》
+crawl the article:碎片
+crawl the article:&lt;&lt;ONE&nbsp;IS&nbsp;ALL&gt;&gt;
+crawl the article:2012年09月25日
+crawl the article:关于作家维权联盟起诉百度的几点声明
+crawl the article:已来的主人翁
+crawl the article:什邡的释放
+crawl stop!
+articles num: 10
+begin to write:要客访泰记
+begin to write:让大家扫兴了
+begin to write:东望洋
+begin to write:《春萍，我做到了》
+begin to write:碎片
+begin to write:&lt;&lt;ONE IS ALL&gt;&gt;
+begin to write:2012年09月25日
+begin to write:关于作家维权联盟起诉百度的几点声明
+begin to write:已来的主人翁
+begin to write:什邡的释放
+the number of blogs:10
+http://blog.sina.com.cn/twocold
+/home/liyasong/website/fastwriting/fastwriting/media/blog
+crawler start!
+crawl the article:要客访泰记
+crawl the article:让大家扫兴了
+crawl the article:东望洋
+crawl the article:《春萍，我做到了》
+crawl the article:碎片
+crawl the article:&lt;&lt;ONE&nbsp;IS&nbsp;ALL&gt;&gt;
+crawl the article:2012年09月25日
+crawl the article:关于作家维权联盟起诉百度的几点声明
+crawl the article:已来的主人翁
+crawl the article:什邡的释放
+crawl stop!
+articles num: 10
+begin to write:要客访泰记
+begin to write:让大家扫兴了
+begin to write:东望洋
+begin to write:《春萍，我做到了》
+begin to write:碎片
+begin to write:&lt;&lt;ONE IS ALL&gt;&gt;
+begin to write:2012年09月25日
+begin to write:关于作家维权联盟起诉百度的几点声明
+begin to write:已来的主人翁
+begin to write:什邡的释放
+the number of blogs:10
+Building Trie...
+dumping model to file cache
+loading model cost  2.80938410759 seconds.
+Trie has been built succesfully.
+Building Trie...
+loading model from cache
+loading model cost  1.00214600563 seconds.
+Trie has been built succesfully.
+[01/Mar/2013 19:51:40] "GET / HTTP/1.1" 200 1462
+[01/Mar/2013 19:51:41] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 19585
+[01/Mar/2013 19:51:41] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 9426
+[01/Mar/2013 19:51:41] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[01/Mar/2013 19:51:41] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 22:44:20] "GET / HTTP/1.1" 200 1462
+[01/Mar/2013 22:44:21] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 22:44:22] "GET /fast-writing/ HTTP/1.1" 200 3538
+[01/Mar/2013 22:44:22] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 22:44:33] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20article HTTP/1.1" 404 3127
+[01/Mar/2013 22:44:36] "GET /match/%E6%9F%B4%E9%9D%99/%E6%9F%B4%E9%9D%99 HTTP/1.1" 301 0
+[01/Mar/2013 22:44:36] "GET /match/%E6%9F%B4%E9%9D%99/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 500 61739
+[01/Mar/2013 22:44:40] "GET /match/%E6%9F%B4%E9%9D%99/%E6%9F%B4 HTTP/1.1" 301 0
+[01/Mar/2013 22:44:40] "GET /match/%E6%9F%B4%E9%9D%99/%E6%9F%B4/ HTTP/1.1" 500 61680
+[01/Mar/2013 22:44:40] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 22:44:42] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 500 61739
+[01/Mar/2013 22:44:42] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 500 61739
+[01/Mar/2013 23:05:48] "GET /fast-writing/ HTTP/1.1" 200 3538
+[01/Mar/2013 23:05:48] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[01/Mar/2013 23:05:48] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[01/Mar/2013 23:05:48] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 19585
+[01/Mar/2013 23:05:48] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 9426
+[01/Mar/2013 23:05:48] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[01/Mar/2013 23:05:48] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[01/Mar/2013 23:05:48] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[01/Mar/2013 23:05:48] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 23:05:50] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20article HTTP/1.1" 404 3127
+[01/Mar/2013 23:06:38] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:06:38] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:06:46] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:06:50] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:06:51] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:06:51] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:06:51] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:06:51] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:06:51] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:06:51] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:06:52] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:06:52] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:06:52] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:06:56] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 500 61739
+[01/Mar/2013 23:07:23] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 500 61606
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+start cut, sentence:write
+write
+[]
+start cut, sentence:write
+write
+[]
+start cut, sentence:write
+write
+[]
+start cut, sentence:writ
+writ
+[]
+start cut, sentence:wri
+wri
+[]
+start cut, sentence:wr
+wr
+[]
+start cut, sentence:w
+w
+[]
+Building Trie...
+loading model from cache
+loading model cost  0.994590044022 seconds.
+Trie has been built succesfully.
+[01/Mar/2013 23:10:52] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 500 62307
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  0.999053955078 seconds.
+Trie has been built succesfully.
+[01/Mar/2013 23:12:05] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 166833
+[01/Mar/2013 23:12:11] "GET /fast-writing/ HTTP/1.1" 200 3538
+[01/Mar/2013 23:12:11] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[01/Mar/2013 23:12:11] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[01/Mar/2013 23:12:11] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[01/Mar/2013 23:12:11] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 19585
+[01/Mar/2013 23:12:11] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 9426
+[01/Mar/2013 23:12:11] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[01/Mar/2013 23:12:11] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[01/Mar/2013 23:12:11] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 23:12:15] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 166833
+[01/Mar/2013 23:13:34] "GET /fast-writing/ HTTP/1.1" 200 3538
+[01/Mar/2013 23:13:35] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[01/Mar/2013 23:13:35] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 19585
+[01/Mar/2013 23:13:35] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 304 0
+[01/Mar/2013 23:13:35] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 9312
+[01/Mar/2013 23:13:35] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[01/Mar/2013 23:13:35] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[01/Mar/2013 23:13:35] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 304 0
+[01/Mar/2013 23:13:35] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 23:13:41] "GET /match/%E6%9F%B4%E9%9D%99/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 43
+[01/Mar/2013 23:13:44] "GET /match/%E6%9F%B4%E9%9D%99/%E6%9F%B4/ HTTP/1.1" 200 43
+[01/Mar/2013 23:13:44] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:13:52] "GET /match/%E6%9F%B4%E9%9D%99/%E5%A5%B3%E4%BA%BA%E5%92%8C%E7%94%B7%E4%BA%BA HTTP/1.1" 301 0
+[01/Mar/2013 23:13:52] "GET /match/%E6%9F%B4%E9%9D%99/%E5%A5%B3%E4%BA%BA%E5%92%8C%E7%94%B7%E4%BA%BA/ HTTP/1.1" 200 2432
+[01/Mar/2013 23:40:42] "GET / HTTP/1.1" 200 1462
+[01/Mar/2013 23:40:42] "GET /sitemedia/css/bootstrap.min.css HTTP/1.1" 200 101265
+[01/Mar/2013 23:40:42] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 19585
+[01/Mar/2013 23:40:42] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[01/Mar/2013 23:40:42] "GET /sitemedia/js/jquery-1.8.2.min.js HTTP/1.1" 200 93436
+[01/Mar/2013 23:40:42] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 9312
+[01/Mar/2013 23:40:42] "GET /sitemedia/js/lists.js HTTP/1.1" 200 469
+[01/Mar/2013 23:40:43] "GET /sitemedia/js/bootstrap.min.js HTTP/1.1" 200 25743
+[01/Mar/2013 23:40:43] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 23:41:09] "GET /design-style HTTP/1.1" 301 0
+[01/Mar/2013 23:41:09] "GET /design-style/ HTTP/1.1" 200 1745
+[01/Mar/2013 23:41:09] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 23:41:36] "GET /fast-writing HTTP/1.1" 301 0
+[01/Mar/2013 23:41:36] "GET /fast-writing/ HTTP/1.1" 200 3538
+[01/Mar/2013 23:41:36] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 23:41:51] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:41:51] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:41:51] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:41:51] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:41:51] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:41:52] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:41:52] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:41:52] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:41:52] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:41:52] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:41:52] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:41:52] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:41:52] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:41:53] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:41:54] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:41:57] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:41:57] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:42:01] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:42:39] "GET /match/%E6%9F%B4%E9%9D%99/%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3 HTTP/1.1" 301 0
+[01/Mar/2013 23:42:39] "GET /match/%E6%9F%B4%E9%9D%99/%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3 HTTP/1.1" 301 0
+[01/Mar/2013 23:42:39] "GET /match/%E6%9F%B4%E9%9D%99/%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3/ HTTP/1.1" 200 8704
+[01/Mar/2013 23:42:39] "GET /match/%E6%9F%B4%E9%9D%99/%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3/ HTTP/1.1" 200 8704
+[01/Mar/2013 23:43:11] "GET /match/%E6%9F%B4%E9%9D%99/%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3%E4%BA%BA HTTP/1.1" 301 0
+[01/Mar/2013 23:43:11] "GET /match/%E6%9F%B4%E9%9D%99/%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3%E4%BA%BA HTTP/1.1" 301 0
+[01/Mar/2013 23:43:11] "GET /match/%E6%9F%B4%E9%9D%99/%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3%E4%BA%BA/ HTTP/1.1" 200 2432
+[01/Mar/2013 23:43:11] "GET /match/%E6%9F%B4%E9%9D%99/%E7%94%B7%E4%BA%BA%E5%92%8C%E5%A5%B3%E4%BA%BA/ HTTP/1.1" 200 2432
+[01/Mar/2013 23:44:39] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:44:39] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:44:39] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:44:39] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:44:39] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:44:39] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:44:39] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:44:39] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:44:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:41] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:44:42] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:19] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:34] "GET /fast-writing HTTP/1.1" 301 0
+[01/Mar/2013 23:48:34] "GET /fast-writing/ HTTP/1.1" 200 3538
+[01/Mar/2013 23:48:34] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 9312
+[01/Mar/2013 23:48:34] "GET /sitemedia/css/images/bg_fade.jpg HTTP/1.1" 404 1732
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:48:40] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:48:41] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:48:42] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:43] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:48:52] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:48:52] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:48:52] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F/ HTTP/1.1" 200 61
+[01/Mar/2013 23:48:52] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F/ HTTP/1.1" 200 61
+[01/Mar/2013 23:49:00] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB HTTP/1.1" 301 0
+[01/Mar/2013 23:49:00] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB HTTP/1.1" 301 0
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E HTTP/1.1" 301 0
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E HTTP/1.1" 301 0
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91 HTTP/1.1" 301 0
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91 HTTP/1.1" 301 0
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91/ HTTP/1.1" 200 43
+[01/Mar/2013 23:49:01] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91/ HTTP/1.1" 200 43
+[01/Mar/2013 23:49:05] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:49:05] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:49:16] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:49:16] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:49:16] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F/ HTTP/1.1" 200 61
+[01/Mar/2013 23:49:16] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F/ HTTP/1.1" 200 61
+[01/Mar/2013 23:49:16] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:49:16] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:49:16] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F/ HTTP/1.1" 200 61
+[01/Mar/2013 23:49:16] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB%E6%98%9F/ HTTP/1.1" 200 61
+[01/Mar/2013 23:49:18] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB HTTP/1.1" 301 0
+[01/Mar/2013 23:49:18] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB HTTP/1.1" 301 0
+[01/Mar/2013 23:49:18] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:18] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E%E7%81%AB/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:34] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E HTTP/1.1" 301 0
+[01/Mar/2013 23:49:34] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E HTTP/1.1" 301 0
+[01/Mar/2013 23:49:34] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:34] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F%E4%B8%8E/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:35] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:49:35] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:49:35] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F/ HTTP/1.1" 200 392
+[01/Mar/2013 23:49:35] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91%E6%98%9F/ HTTP/1.1" 200 392
+[01/Mar/2013 23:50:41] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91 HTTP/1.1" 301 0
+[01/Mar/2013 23:50:41] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91 HTTP/1.1" 301 0
+[01/Mar/2013 23:50:41] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91/ HTTP/1.1" 200 43
+[01/Mar/2013 23:50:41] "GET /match/%E6%9F%B4%E9%9D%99/%E9%87%91/ HTTP/1.1" 200 43
+[01/Mar/2013 23:50:41] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:50:42] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:51:04] "GET /match/%E6%9F%B4%E9%9D%99/%E5%8C%BB%E7%94%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:51:04] "GET /match/%E6%9F%B4%E9%9D%99/%E5%8C%BB%E7%94%9F HTTP/1.1" 301 0
+[01/Mar/2013 23:51:04] "GET /match/%E6%9F%B4%E9%9D%99/%E5%8C%BB%E7%94%9F/ HTTP/1.1" 200 13586
+[01/Mar/2013 23:51:04] "GET /match/%E6%9F%B4%E9%9D%99/%E5%8C%BB%E7%94%9F/ HTTP/1.1" 200 13586
+[01/Mar/2013 23:51:56] "GET /fast-writing/undefined HTTP/1.1" 404 3084
+[01/Mar/2013 23:52:02] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:52:02] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:52:02] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:52:02] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:52:03] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:52:03] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:52:03] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:52:03] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:52:03] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:52:03] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:52:03] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:52:03] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:04] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:52:05] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:52:06] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:52:06] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:52:35] "GET /match/%E6%9F%B4%E9%9D%99/%E5%A5%B3%E4%BA%BA%E5%92%8C%E5%A5%B3%E5%AD%A9 HTTP/1.1" 301 0
+[01/Mar/2013 23:52:35] "GET /match/%E6%9F%B4%E9%9D%99/%E5%A5%B3%E4%BA%BA%E5%92%8C%E5%A5%B3%E5%AD%A9 HTTP/1.1" 301 0
+[01/Mar/2013 23:52:35] "GET /match/%E6%9F%B4%E9%9D%99/%E5%A5%B3%E4%BA%BA%E5%92%8C%E5%A5%B3%E5%AD%A9/ HTTP/1.1" 200 574
+[01/Mar/2013 23:52:35] "GET /match/%E6%9F%B4%E9%9D%99/%E5%A5%B3%E4%BA%BA%E5%92%8C%E5%A5%B3%E5%AD%A9/ HTTP/1.1" 200 574
+[01/Mar/2013 23:52:49] "GET /fast-writing/undefined HTTP/1.1" 404 3084
+[01/Mar/2013 23:53:08] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:53:08] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20articl HTTP/1.1" 404 3124
+[01/Mar/2013 23:53:08] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:53:08] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20artic HTTP/1.1" 404 3121
+[01/Mar/2013 23:53:08] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:53:08] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20arti HTTP/1.1" 404 3118
+[01/Mar/2013 23:53:08] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:53:08] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20art HTTP/1.1" 404 3115
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20ar HTTP/1.1" 404 3112
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20your%20a HTTP/1.1" 404 3109
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20your HTTP/1.1" 404 3101
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20you HTTP/1.1" 404 3098
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20yo HTTP/1.1" 404 3095
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:53:09] "GET /match/%E6%9F%B4%E9%9D%99/write%20y HTTP/1.1" 404 3092
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/write HTTP/1.1" 301 0
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/write/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/writ HTTP/1.1" 301 0
+[01/Mar/2013 23:53:10] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/writ/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/wri HTTP/1.1" 301 0
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/wri/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/wr HTTP/1.1" 301 0
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/wr/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/w HTTP/1.1" 301 0
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/w/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:53:11] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:53:17] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C HTTP/1.1" 301 0
+[01/Mar/2013 23:53:17] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C HTTP/1.1" 301 0
+[01/Mar/2013 23:53:18] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:18] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C/ HTTP/1.1" 200 43
+[01/Mar/2013 23:53:46] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B HTTP/1.1" 301 0
+[01/Mar/2013 23:53:46] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B HTTP/1.1" 301 0
+[01/Mar/2013 23:53:46] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B/ HTTP/1.1" 200 770
+[01/Mar/2013 23:53:46] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B/ HTTP/1.1" 200 770
+[01/Mar/2013 23:54:47] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E HTTP/1.1" 301 0
+[01/Mar/2013 23:54:47] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E HTTP/1.1" 301 0
+[01/Mar/2013 23:54:47] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E/ HTTP/1.1" 200 137
+[01/Mar/2013 23:54:47] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E/ HTTP/1.1" 200 137
+[01/Mar/2013 23:55:11] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E%E5%AF%B8%E8%8D%89 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:11] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E%E5%AF%B8%E8%8D%89 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:11] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E%E5%AF%B8%E8%8D%89/ HTTP/1.1" 200 146
+[01/Mar/2013 23:55:11] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E%E5%AF%B8%E8%8D%89/ HTTP/1.1" 200 146
+[01/Mar/2013 23:55:22] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E%E5%AF%B8 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:22] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E%E5%AF%B8 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:22] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E%E5%AF%B8/ HTTP/1.1" 200 137
+[01/Mar/2013 23:55:22] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E%E5%AF%B8/ HTTP/1.1" 200 137
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E/ HTTP/1.1" 200 137
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6%E5%AE%9E/ HTTP/1.1" 200 137
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6/ HTTP/1.1" 200 770
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B%E5%85%B6/ HTTP/1.1" 200 770
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B/ HTTP/1.1" 200 770
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F%E8%9B%8B/ HTTP/1.1" 200 770
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F/ HTTP/1.1" 200 43
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF%E5%9D%8F/ HTTP/1.1" 200 43
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C HTTP/1.1" 301 0
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF/ HTTP/1.1" 200 43
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C%E6%98%AF/ HTTP/1.1" 200 43
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C/ HTTP/1.1" 200 43
+[01/Mar/2013 23:55:23] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8%E5%80%9C/ HTTP/1.1" 200 43
+[01/Mar/2013 23:55:24] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:24] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:24] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8/ HTTP/1.1" 200 43
+[01/Mar/2013 23:55:24] "GET /match/%E6%9F%B4%E9%9D%99/%E5%91%A8/ HTTP/1.1" 200 43
+[01/Mar/2013 23:55:24] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:55:24] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:55:57] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E5%8F%98 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:57] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E5%8F%98 HTTP/1.1" 301 0
+[01/Mar/2013 23:55:57] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E5%8F%98/ HTTP/1.1" 200 155
+[01/Mar/2013 23:55:57] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E5%8F%98/ HTTP/1.1" 200 155
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9 HTTP/1.1" 301 0
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9 HTTP/1.1" 301 0
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9/ HTTP/1.1" 200 14824
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9/ HTTP/1.1" 200 14824
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84 HTTP/1.1" 301 0
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84 HTTP/1.1" 301 0
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84/ HTTP/1.1" 200 14824
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84/ HTTP/1.1" 200 14824
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD HTTP/1.1" 301 0
+[01/Mar/2013 23:57:06] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD HTTP/1.1" 301 0
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF HTTP/1.1" 301 0
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF HTTP/1.1" 301 0
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD/ HTTP/1.1" 200 14824
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF%E8%83%BD/ HTTP/1.1" 200 14824
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF/ HTTP/1.1" 200 31606
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D%E5%8F%AF/ HTTP/1.1" 200 31606
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D HTTP/1.1" 301 0
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D HTTP/1.1" 301 0
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D/ HTTP/1.1" 200 43
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:57:07] "GET /match/%E6%9F%B4%E9%9D%99/%E4%B8%8D/ HTTP/1.1" 200 43
+[01/Mar/2013 23:57:54] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0 HTTP/1.1" 301 0
+[01/Mar/2013 23:57:54] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0 HTTP/1.1" 301 0
+[01/Mar/2013 23:57:54] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0/ HTTP/1.1" 200 79
+[01/Mar/2013 23:57:54] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0/ HTTP/1.1" 200 79
+[01/Mar/2013 23:58:27] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E5%8F%98 HTTP/1.1" 301 0
+[01/Mar/2013 23:58:27] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E5%8F%98 HTTP/1.1" 301 0
+[01/Mar/2013 23:58:27] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E5%8F%98/ HTTP/1.1" 200 115
+[01/Mar/2013 23:58:27] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E5%8F%98/ HTTP/1.1" 200 115
+[01/Mar/2013 23:58:28] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9 HTTP/1.1" 301 0
+[01/Mar/2013 23:58:28] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9 HTTP/1.1" 301 0
+[01/Mar/2013 23:58:28] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9/ HTTP/1.1" 200 106
+[01/Mar/2013 23:58:28] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9/ HTTP/1.1" 200 106
+[01/Mar/2013 23:58:29] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84 HTTP/1.1" 301 0
+[01/Mar/2013 23:58:29] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84 HTTP/1.1" 301 0
+[01/Mar/2013 23:58:29] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84/ HTTP/1.1" 200 106
+[01/Mar/2013 23:58:29] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84/ HTTP/1.1" 200 106
+[01/Mar/2013 23:58:30] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD HTTP/1.1" 301 0
+[01/Mar/2013 23:58:30] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD HTTP/1.1" 301 0
+[01/Mar/2013 23:58:30] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD/ HTTP/1.1" 200 106
+[01/Mar/2013 23:58:30] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD/ HTTP/1.1" 200 106
+[01/Mar/2013 23:58:31] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF HTTP/1.1" 301 0
+[01/Mar/2013 23:58:31] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF HTTP/1.1" 301 0
+[01/Mar/2013 23:58:31] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF/ HTTP/1.1" 200 97
+[01/Mar/2013 23:58:31] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D%E5%8F%AF/ HTTP/1.1" 200 97
+[01/Mar/2013 23:58:32] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D HTTP/1.1" 301 0
+[01/Mar/2013 23:58:32] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D HTTP/1.1" 301 0
+[01/Mar/2013 23:58:32] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D/ HTTP/1.1" 200 88
+[01/Mar/2013 23:58:32] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C%E4%B8%8D/ HTTP/1.1" 200 88
+[01/Mar/2013 23:58:32] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C HTTP/1.1" 301 0
+[01/Mar/2013 23:58:32] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C HTTP/1.1" 301 0
+[01/Mar/2013 23:58:32] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C/ HTTP/1.1" 200 88
+[01/Mar/2013 23:58:33] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA%EF%BC%8C/ HTTP/1.1" 200 88
+[01/Mar/2013 23:58:33] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA HTTP/1.1" 301 0
+[01/Mar/2013 23:58:33] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA HTTP/1.1" 301 0
+[01/Mar/2013 23:58:33] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA/ HTTP/1.1" 200 88
+[01/Mar/2013 23:58:33] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A%E5%87%BA/ HTTP/1.1" 200 88
+[01/Mar/2013 23:58:34] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A HTTP/1.1" 301 0
+[01/Mar/2013 23:58:34] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A HTTP/1.1" 301 0
+[01/Mar/2013 23:58:34] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A/ HTTP/1.1" 200 79
+[01/Mar/2013 23:58:34] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0%E5%81%9A/ HTTP/1.1" 200 79
+[01/Mar/2013 23:58:35] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0 HTTP/1.1" 301 0
+[01/Mar/2013 23:58:35] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0 HTTP/1.1" 301 0
+[01/Mar/2013 23:58:35] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0/ HTTP/1.1" 200 79
+[01/Mar/2013 23:58:35] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA%E4%BD%A0/ HTTP/1.1" 200 79
+[01/Mar/2013 23:58:36] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA HTTP/1.1" 301 0
+[01/Mar/2013 23:58:36] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA HTTP/1.1" 301 0
+[01/Mar/2013 23:58:36] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA/ HTTP/1.1" 200 79
+[01/Mar/2013 23:58:36] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E4%B8%BA/ HTTP/1.1" 200 79
+[01/Mar/2013 23:58:37] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F HTTP/1.1" 301 0
+[01/Mar/2013 23:58:37] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F HTTP/1.1" 301 0
+[01/Mar/2013 23:58:37] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F/ HTTP/1.1" 200 70
+[01/Mar/2013 23:58:37] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F/ HTTP/1.1" 200 70
+[01/Mar/2013 23:58:38] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF HTTP/1.1" 301 0
+[01/Mar/2013 23:58:38] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF HTTP/1.1" 301 0
+[01/Mar/2013 23:58:38] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF/ HTTP/1.1" 200 872
+[01/Mar/2013 23:58:38] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:05] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91 HTTP/1.1" 301 0
+[01/Mar/2013 23:59:05] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91 HTTP/1.1" 301 0
+[01/Mar/2013 23:59:05] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:05] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E6%88%91/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:06] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86 HTTP/1.1" 301 0
+[01/Mar/2013 23:59:06] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86 HTTP/1.1" 301 0
+[01/Mar/2013 23:59:06] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:06] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:07] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C HTTP/1.1" 301 0
+[01/Mar/2013 23:59:07] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C HTTP/1.1" 301 0
+[01/Mar/2013 23:59:07] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:07] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:07] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E HTTP/1.1" 301 0
+[01/Mar/2013 23:59:07] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E HTTP/1.1" 301 0
+[01/Mar/2013 23:59:07] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:07] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C%E7%BE%8E/ HTTP/1.1" 200 872
+[01/Mar/2013 23:59:17] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C HTTP/1.1" 301 0
+[01/Mar/2013 23:59:17] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C HTTP/1.1" 301 0
+[01/Mar/2013 23:59:18] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C/ HTTP/1.1" 200 293681
+[01/Mar/2013 23:59:18] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D%E5%AE%8C/ HTTP/1.1" 200 293681
+[01/Mar/2013 23:59:18] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D HTTP/1.1" 301 0
+[01/Mar/2013 23:59:18] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D HTTP/1.1" 301 0
+[01/Mar/2013 23:59:18] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD HTTP/1.1" 301 0
+[01/Mar/2013 23:59:18] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD HTTP/1.1" 301 0
+[01/Mar/2013 23:59:19] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D/ HTTP/1.1" 200 293681
+[01/Mar/2013 23:59:19] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD%E4%B8%8D/ HTTP/1.1" 200 293681
+[01/Mar/2013 23:59:20] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD/ HTTP/1.1" 200 293681
+[01/Mar/2013 23:59:20] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC%E9%83%BD/ HTTP/1.1" 200 293681
+[01/Mar/2013 23:59:45] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC HTTP/1.1" 301 0
+[01/Mar/2013 23:59:45] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC HTTP/1.1" 301 0
+[01/Mar/2013 23:59:46] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC/ HTTP/1.1" 200 293681
+[01/Mar/2013 23:59:46] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91%E4%BB%AC/ HTTP/1.1" 200 293681
+[01/Mar/2013 23:59:46] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91 HTTP/1.1" 301 0
+[01/Mar/2013 23:59:46] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91 HTTP/1.1" 301 0
+[01/Mar/2013 23:59:46] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91/ HTTP/1.1" 200 43
+[01/Mar/2013 23:59:46] "GET /match/%E6%9F%B4%E9%9D%99/%E6%88%91/ HTTP/1.1" 200 43
+[01/Mar/2013 23:59:46] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+[01/Mar/2013 23:59:46] "GET /match/%E6%9F%B4%E9%9D%99/ HTTP/1.1" 200 18
+Building Trie...
+dumping model to file cache
+loading model cost  2.79869890213 seconds.
+Trie has been built succesfully.
+Building Trie...
+loading model from cache
+loading model cost  1.02194404602 seconds.
+Trie has been built succesfully.
+[06/Mar/2013 20:16:05] "GET / HTTP/1.1" 200 1462
+[06/Mar/2013 20:16:06] "GET /sitemedia/css/android-developer-docs.css HTTP/1.1" 200 21243
+[06/Mar/2013 20:16:06] "GET /sitemedia/css/android-developer-core.css HTTP/1.1" 200 19593
+[06/Mar/2013 20:16:06] "GET /sitemedia/js/search_autocomplete.js HTTP/1.1" 200 9315
+[06/Mar/2013 20:16:06] "GET /sitemedia/img/bg_fade.jpg HTTP/1.1" 200 300
+[06/Mar/2013 20:16:07] "GET /fast-writing/ HTTP/1.1" 200 3557
+[06/Mar/2013 20:16:13] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E5%AE%87 HTTP/1.1" 301 0
+[06/Mar/2013 20:16:13] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E5%AE%87/ HTTP/1.1" 200 52
+[06/Mar/2013 20:16:15] "GET /match/Memo/%E4%B8%AD%E7%A7%91 HTTP/1.1" 301 0
+[06/Mar/2013 20:16:15] "GET /match/Memo/%E4%B8%AD%E7%A7%91/ HTTP/1.1" 200 52
+[06/Mar/2013 20:16:16] "GET /match/Memo/%E4%B8%AD HTTP/1.1" 301 0
+[06/Mar/2013 20:16:16] "GET /match/Memo/%E4%B8%AD/ HTTP/1.1" 200 43
+[06/Mar/2013 20:16:16] "GET /match/Memo/x/ HTTP/1.1" 200 43
+[06/Mar/2013 20:16:19] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2/ HTTP/1.1" 200 1471
+[06/Mar/2013 20:16:19] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2/ HTTP/1.1" 200 1471
+[06/Mar/2013 20:16:20] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2/ HTTP/1.1" 200 1471
+[06/Mar/2013 20:16:22] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2/ HTTP/1.1" 200 1471
+[06/Mar/2013 20:16:26] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8A%9B%E9%87%8F HTTP/1.1" 301 0
+[06/Mar/2013 20:16:26] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8A%9B%E9%87%8F/ HTTP/1.1" 200 309
+[06/Mar/2013 20:24:53] "GET /design-style/ HTTP/1.1" 200 1745
+[06/Mar/2013 20:25:49] "GET /import-blog?blog_site=http%3A%2F%2Ffirecacada.blog.163.com%2F HTTP/1.1" 301 0
+[06/Mar/2013 20:25:49] "GET /import-blog/?blog_site=http%3A%2F%2Ffirecacada.blog.163.com%2F HTTP/1.1" 200 4
+http://firecacada.blog.163.com/
+/home/liyasong/website/fastwriting/fastwriting/media/blog
+crawler start!
+Exception in thread "main" java.lang.NullPointerException
+	at liyasong.tool.crawler.AbstractCrawler.crawl(AbstractCrawler.java:55)
+	at liyasong.tool.crawler.SinaBlogCrawler.main(SinaBlogCrawler.java:35)
+[06/Mar/2013 20:31:05] "GET /fast-writing/ HTTP/1.1" 200 3557
+[06/Mar/2013 20:31:11] "GET /match/Memo/%E7%88%B1%E6%83%85 HTTP/1.1" 301 0
+[06/Mar/2013 20:31:11] "GET /match/Memo/%E7%88%B1%E6%83%85/ HTTP/1.1" 200 216
+[06/Mar/2013 20:34:47] "GET /index/ HTTP/1.1" 200 1462
+[06/Mar/2013 20:36:40] "GET /fast-writing/ HTTP/1.1" 200 3557
+[06/Mar/2013 20:36:54] "GET /match/Memo/x/ HTTP/1.1" 200 43
+[06/Mar/2013 20:36:55] "GET /match/Memo/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 821
+[06/Mar/2013 20:37:14] "GET /match/Memo/%E4%B8%AD%E5%9B%BD%E4%BF%AE%E5%85%BB HTTP/1.1" 301 0
+[06/Mar/2013 20:37:14] "GET /match/Memo/%E4%B8%AD%E5%9B%BD%E4%BF%AE%E5%85%BB/ HTTP/1.1" 200 167
+[06/Mar/2013 20:37:33] "GET /match/Memo/%E4%B8%AD%E5%9B%BD%E4%BF%AE HTTP/1.1" 301 0
+[06/Mar/2013 20:37:33] "GET /match/Memo/%E4%B8%AD%E5%9B%BD%E4%BF%AE/ HTTP/1.1" 200 821
+[06/Mar/2013 20:37:33] "GET /match/Memo/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 821
+[06/Mar/2013 20:37:34] "GET /match/Memo/%E4%B8%AD/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:34] "GET /match/Memo/x/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:44] "GET /match/Memo/wo'ai'z HTTP/1.1" 301 0
+[06/Mar/2013 20:37:44] "GET /match/Memo/wo%27ai%27z/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:44] "GET /match/Memo/wo'ai HTTP/1.1" 301 0
+[06/Mar/2013 20:37:44] "GET /match/Memo/wo%27ai/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:44] "GET /match/Memo/wo'a HTTP/1.1" 301 0
+[06/Mar/2013 20:37:44] "GET /match/Memo/wo%27a/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:45] "GET /match/Memo/wo HTTP/1.1" 301 0
+[06/Mar/2013 20:37:45] "GET /match/Memo/wo/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:45] "GET /match/Memo/w HTTP/1.1" 301 0
+[06/Mar/2013 20:37:45] "GET /match/Memo/w/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:45] "GET /match/Memo/x/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:46] "GET /match/Memo/wo/ HTTP/1.1" 200 43
+[06/Mar/2013 20:37:48] "GET /match/Memo/%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA HTTP/1.1" 301 0
+[06/Mar/2013 20:37:48] "GET /match/Memo/%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA/ HTTP/1.1" 200 821
+[06/Mar/2013 20:38:18] "GET /fast-writing/undefined HTTP/1.1" 404 2971
+[06/Mar/2013 20:39:31] "GET /match/Memo/x/ HTTP/1.1" 200 43
+[06/Mar/2013 20:40:01] "GET /design-style/ HTTP/1.1" 200 1745
+[06/Mar/2013 20:43:47] "GET /fast-writing/ HTTP/1.1" 200 3557
+[06/Mar/2013 20:43:51] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2/ HTTP/1.1" 200 1471
+[06/Mar/2013 20:46:03] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2/ HTTP/1.1" 200 1471
+[06/Mar/2013 20:46:04] "GET /match/Memo/%E4%B8%AD%E7%A7%91%E9%99%A2/ HTTP/1.1" 200 1471
+[06/Mar/2013 20:46:27] "GET /design-style/ HTTP/1.1" 200 1745
+[06/Mar/2013 20:49:31] "GET /fast-writing/ HTTP/1.1" 200 3557
+[06/Mar/2013 20:55:34] "GET /design-style/ HTTP/1.1" 200 1745
+[06/Mar/2013 20:57:33] "GET /fast-writing/ HTTP/1.1" 200 3557
+[06/Mar/2013 20:57:35] "GET /match/Memo/writeyourarticlefd HTTP/1.1" 301 0
+[06/Mar/2013 20:57:35] "GET /match/Memo/writeyourarticlefd/ HTTP/1.1" 200 43
+[06/Mar/2013 20:57:37] "GET /match/Memo/x/ HTTP/1.1" 200 43
+[06/Mar/2013 20:57:39] "GET /match/Memo/x/ HTTP/1.1" 200 43
+[06/Mar/2013 20:57:40] "GET /match/Memo/%E4%B8%AD%E5%9B%BD/ HTTP/1.1" 200 821
+[06/Mar/2013 20:57:41] "GET /fast-writing/undefined HTTP/1.1" 404 2971
+Validating models...
+
+0 errors found
+Django version 1.4.3, using settings 'fastwriting.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Building Trie...
+loading model from cache
+loading model cost  1.0026819706 seconds.
+Trie has been built succesfully.

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<meta charset="utf-8"/>
+<html lang="zh">
+<head>
+    <title>{% block title %}{% endblock %}</title>
+	<link href="/sitemedia/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="/sitemedia/css/android-developer-docs.css" rel="stylesheet" type="text/css" />
+	<link href="/sitemedia/css/android-developer-core.css" rel="stylesheet" type="text/css" />
+	<script src="/sitemedia/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+	<script src="/sitemedia/js/search_autocomplete.js" type="text/javascript"></script>
+	<script src="/sitemedia/js/lists.js" type="text/javascript"></script>
+	<script src="/sitemedia/js/bootstrap.min.js"></script>
+	<style type="text/css">
+	  body {
+        padding-top: 20px;
+        padding-bottom: 40px;
+      }
+
+      /* Custom container */
+      .container-narrow {
+        margin: 0 auto;
+        max-width: 700px;
+      }
+	</style>
+</head>
+<body>
+	<div class="container">
+		<nav>
+			<ul class="nav nav-pills">
+			  <li class="active">
+				<a href="/index">Home</a>
+			  </li>
+			  <li><a href="/design-style">Design Style</a></li>
+			  <li><a href="/fast-writing">Fast Writing</a></li>
+			</ul>
+		</nav>
+		{% block content %}{% endblock %}
+		{% block footer %}
+		<hr>
+		
+		{% endblock %}
+		<footer>
+			<address></address>
+		</footer>
+	</div>
+
+</body>
+</html>
